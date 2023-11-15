@@ -986,6 +986,7 @@
 | bufo-think.png | ![bufo-think.png](all-the-bufo/bufo-think.png) |
 | bufo-thinking.png | ![bufo-thinking.png](all-the-bufo/bufo-thinking.png) |
 | bufo-thinks-about-a11y.png | ![bufo-thinks-about-a11y.png](all-the-bufo/bufo-thinks-about-a11y.png) |
+| bufo-thinks-about-fishsticks.gif | ![bufo-thinks-about-fishsticks.gif](all-the-bufo/bufo-thinks-about-fishsticks.gif) |
 | bufo-thinks-about-telemetry.png | ![bufo-thinks-about-telemetry.png](all-the-bufo/bufo-thinks-about-telemetry.png) |
 | bufo-thinks-this-is-a-total-bop.gif | ![bufo-thinks-this-is-a-total-bop.gif](all-the-bufo/bufo-thinks-this-is-a-total-bop.gif) |
 | bufo-this-is-fine.png | ![bufo-this-is-fine.png](all-the-bufo/bufo-this-is-fine.png) |
