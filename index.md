@@ -1214,5 +1214,9 @@
 | whenlifegetsatbufo.png | ![whenlifegetsatbufo.png](all-the-bufo/whenlifegetsatbufo.png) |
 | wreck-it-bufo.png | ![wreck-it-bufo.png](all-the-bufo/wreck-it-bufo.png) |
 | wrong-frog.png | ![wrong-frog.png](all-the-bufo/wrong-frog.png) |
+| yay-bufo-1.gif | ![yay-bufo-1.gif](all-the-bufo/yay-bufo-1.gif) |
+| yay-bufo-2.gif | ![yay-bufo-2.gif](all-the-bufo/yay-bufo-2.gif) |
+| yay-bufo-3.gif | ![yay-bufo-3.gif](all-the-bufo/yay-bufo-3.gif) |
+| yay-bufo-4.gif | ![yay-bufo-4.gif](all-the-bufo/yay-bufo-4.gif) |
 | you-have-awoken-the-bufo.png | ![you-have-awoken-the-bufo.png](all-the-bufo/you-have-awoken-the-bufo.png) |
 | you-have-exquisite-taste-in-bufo.png | ![you-have-exquisite-taste-in-bufo.png](all-the-bufo/you-have-exquisite-taste-in-bufo.png) |
