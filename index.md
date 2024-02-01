@@ -737,6 +737,7 @@
 | bufo-offers-you-the-best-emoji-culture-ever.png | ![bufo-offers-you-the-best-emoji-culture-ever.png](all-the-bufo/bufo-offers-you-the-best-emoji-culture-ever.png) |
 | bufo-offers-you-the-moon.png | ![bufo-offers-you-the-moon.png](all-the-bufo/bufo-offers-you-the-moon.png) |
 | bufo-offers-you-the-world.png | ![bufo-offers-you-the-world.png](all-the-bufo/bufo-offers-you-the-world.png) |
+| bufo-offers-you-logs.png | ![bufo-offers-you-logs.png](all-the-bufo/bufo-offers-you-logs.png) |
 | bufo-offers-yubikey.png | ![bufo-offers-yubikey.png](all-the-bufo/bufo-offers-yubikey.png) |
 | bufo-office.png | ![bufo-office.png](all-the-bufo/bufo-office.png) |
 | bufo-oh-hai.png | ![bufo-oh-hai.png](all-the-bufo/bufo-oh-hai.png) |
