@@ -707,6 +707,7 @@
 | bufo-mustache.png | ![bufo-mustache.png](all-the-bufo/bufo-mustache.png) |
 | bufo-my-pho.png | ![bufo-my-pho.png](all-the-bufo/bufo-my-pho.png) |
 | bufo-nah.png | ![bufo-nah.png](all-the-bufo/bufo-nah.png) |
+| bufo-naked.png | ![bufo-naked.png](all-the-bufo/bufo-naked.png) |
 | bufo-naptime.png | ![bufo-naptime.png](all-the-bufo/bufo-naptime.png) |
 | bufo-needs-some-hot-tea-to-process-this-news.png | ![bufo-needs-some-hot-tea-to-process-this-news.png](all-the-bufo/bufo-needs-some-hot-tea-to-process-this-news.png) |
 | bufo-needs-to-vent.png | ![bufo-needs-to-vent.png](all-the-bufo/bufo-needs-to-vent.png) |
@@ -963,6 +964,7 @@
 | bufo-ponders-2.png | ![bufo-ponders-2.png](all-the-bufo/bufo-ponders-2.png) |
 | bufo-ponders-3.png | ![bufo-ponders-3.png](all-the-bufo/bufo-ponders-3.png) |
 | bufo-ponders.png | ![bufo-ponders.png](all-the-bufo/bufo-ponders.png) |
+| bufo-poo.png | ![bufo-poo.png](all-the-bufo/bufo-poo.png) |
 | bufo-poof.gif | ![bufo-poof.gif](all-the-bufo/bufo-poof.gif) |
 | bufo-popcorn.gif | ![bufo-popcorn.gif](all-the-bufo/bufo-popcorn.gif) |
 | bufo-popping-out-of-the-coffee-upsidedown.gif | ![bufo-popping-out-of-the-coffee-upsidedown.gif](all-the-bufo/bufo-popping-out-of-the-coffee-upsidedown.gif) |
@@ -1395,6 +1397,7 @@
 | bufos-lips-are-sealed.png | ![bufos-lips-are-sealed.png](all-the-bufo/bufos-lips-are-sealed.png) |
 | bufovacado.png | ![bufovacado.png](all-the-bufo/bufovacado.png) |
 | bufowhirl.png | ![bufowhirl.png](all-the-bufo/bufowhirl.png) |
+| bufrogu.png | ![bufrogu.png](all-the-bufo/bufrogu.png) |
 | but-wait-theres-bufo.png | ![but-wait-theres-bufo.png](all-the-bufo/but-wait-theres-bufo.png) |
 | child-bufo-only-has-deku-sticks-to-save-hyrule.png | ![child-bufo-only-has-deku-sticks-to-save-hyrule.png](all-the-bufo/child-bufo-only-has-deku-sticks-to-save-hyrule.png) |
 | chonky-bufo-wants-to-be-held.png | ![chonky-bufo-wants-to-be-held.png](all-the-bufo/chonky-bufo-wants-to-be-held.png) |
@@ -1469,6 +1472,7 @@
 | party-bufo.gif | ![party-bufo.gif](all-the-bufo/party-bufo.gif) |
 | planet-bufo.gif | ![planet-bufo.gif](all-the-bufo/planet-bufo.gif) |
 | please-converse-using-only-bufo.png | ![please-converse-using-only-bufo.png](all-the-bufo/please-converse-using-only-bufo.png) |
+| poison-dart-bufo.png | ![poison-dart-bufo.png](all-the-bufo/poison-dart-bufo.png) |
 | pour-one-out-for-bufo.gif | ![pour-one-out-for-bufo.gif](all-the-bufo/pour-one-out-for-bufo.gif) |
 | press-x-to-bufo.png | ![press-x-to-bufo.png](all-the-bufo/press-x-to-bufo.png) |
 | princebufo.png | ![princebufo.png](all-the-bufo/princebufo.png) |
