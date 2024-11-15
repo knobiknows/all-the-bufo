@@ -561,8 +561,10 @@
 | bufo-is-lost-in-the-void.png | ![bufo-is-lost-in-the-void.png](all-the-bufo/bufo-is-lost-in-the-void.png) |
 | bufo-is-lost.png | ![bufo-is-lost.png](all-the-bufo/bufo-is-lost.png) |
 | bufo-is-omniscient.png | ![bufo-is-omniscient.png](all-the-bufo/bufo-is-omniscient.png) |
+| bufo-is-on-a-sled.png | ![bufo-is-on-a-sled.png](all-the-bufo/bufo-is-on-a-sled.png) |
 | bufo-is-panicking.gif | ![bufo-is-panicking.gif](all-the-bufo/bufo-is-panicking.gif) |
 | bufo-is-petting-your-cat.png | ![bufo-is-petting-your-cat.png](all-the-bufo/bufo-is-petting-your-cat.png) |
+| bufo-is-petting-your-dog.png | ![bufo-is-petting-your-dog.png](all-the-bufo/bufo-is-petting-your-dog.png) |
 | bufo-is-proud-of-you.gif | ![bufo-is-proud-of-you.gif](all-the-bufo/bufo-is-proud-of-you.gif) |
 | bufo-is-ready-for-xmas.png | ![bufo-is-ready-for-xmas.png](all-the-bufo/bufo-is-ready-for-xmas.png) |
 | bufo-is-ready-to-build-when-you-are.png | ![bufo-is-ready-to-build-when-you-are.png](all-the-bufo/bufo-is-ready-to-build-when-you-are.png) |
