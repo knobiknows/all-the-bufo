@@ -405,6 +405,7 @@
 | bufo-gandalf-has-seen-things.png | ![bufo-gandalf-has-seen-things.png](all-the-bufo/bufo-gandalf-has-seen-things.png) |
 | bufo-gandalf-wat.png | ![bufo-gandalf-wat.png](all-the-bufo/bufo-gandalf-wat.png) |
 | bufo-gandalf.gif | ![bufo-gandalf.gif](all-the-bufo/bufo-gandalf.gif) |
+| bufo-gardener.png | ![bufo-gardener.png](all-the-bufo/bufo-gardener.png) |
 | bufo-garlic.png | ![bufo-garlic.png](all-the-bufo/bufo-garlic.png) |
 | bufo-gavel-dual-wield.png | ![bufo-gavel-dual-wield.png](all-the-bufo/bufo-gavel-dual-wield.png) |
 | bufo-gavel.png | ![bufo-gavel.png](all-the-bufo/bufo-gavel.png) |
