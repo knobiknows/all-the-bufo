@@ -545,6 +545,7 @@
 | bufo-inspired.png | ![bufo-inspired.png](all-the-bufo/bufo-inspired.png) |
 | bufo-instigates-a-dramatic-turn-of-events.png | ![bufo-instigates-a-dramatic-turn-of-events.png](all-the-bufo/bufo-instigates-a-dramatic-turn-of-events.png) |
 | bufo-intensifies.gif | ![bufo-intensifies.gif](all-the-bufo/bufo-intensifies.gif) |
+| bufo-intern.png | ![bufo-intern.png](all-the-bufo/bufo-intern.png) |
 | bufo-investigates.png | ![bufo-investigates.png](all-the-bufo/bufo-investigates.png) |
 | bufo-iphone.png | ![bufo-iphone.png](all-the-bufo/bufo-iphone.png) |
 | bufo-irl.png | ![bufo-irl.png](all-the-bufo/bufo-irl.png) |
