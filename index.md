@@ -1325,6 +1325,7 @@
 | bufo-vomit.png | ![bufo-vomit.png](all-the-bufo/bufo-vomit.png) |
 | bufo-waddle.gif | ![bufo-waddle.gif](all-the-bufo/bufo-waddle.gif) |
 | bufo-waiting-for-aws-to-deep-archive-our-data.png | ![bufo-waiting-for-aws-to-deep-archive-our-data.png](all-the-bufo/bufo-waiting-for-aws-to-deep-archive-our-data.png) |
+| bufo-waiting-for-azure.png | ![bufo-waiting-for-azure.png](all-the-bufo/bufo-waiting-for-azure.png) |
 | bufo-waits-in-queue.png | ![bufo-waits-in-queue.png](all-the-bufo/bufo-waits-in-queue.png) |
 | bufo-waldo.png | ![bufo-waldo.png](all-the-bufo/bufo-waldo.png) |
 | bufo-walk-away.gif | ![bufo-walk-away.gif](all-the-bufo/bufo-walk-away.gif) |
