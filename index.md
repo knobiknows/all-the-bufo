@@ -433,6 +433,7 @@
 | bufo-gives-a-magic-number.png | ![bufo-gives-a-magic-number.png](all-the-bufo/bufo-gives-a-magic-number.png) |
 | bufo-gives-an-idea.png | ![bufo-gives-an-idea.png](all-the-bufo/bufo-gives-an-idea.png) |
 | bufo-gives-approval.png | ![bufo-gives-approval.png](all-the-bufo/bufo-gives-approval.png) |
+| bufo-gives-can-of-worms.png | ![bufo-gives-can-of-worms.png](all-the-bufo/bufo-gives-can-of-worms.png) |
 | bufo-gives-databricks.png | ![bufo-gives-databricks.png](all-the-bufo/bufo-gives-databricks.png) |
 | bufo-gives-j.png | ![bufo-gives-j.png](all-the-bufo/bufo-gives-j.png) |
 | bufo-gives-star.png | ![bufo-gives-star.png](all-the-bufo/bufo-gives-star.png) |
