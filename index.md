@@ -458,6 +458,7 @@
 | bufo-got-a-tan.png | ![bufo-got-a-tan.png](all-the-bufo/bufo-got-a-tan.png) |
 | bufo-got-zapped.png | ![bufo-got-zapped.png](all-the-bufo/bufo-got-zapped.png) |
 | bufo-grapes.png | ![bufo-grapes.png](all-the-bufo/bufo-grapes.png) |
+| bufo-grasping-at-straws.png | ![bufo-grasping-at-straws.png](all-the-bufo/bufo-grasping-at-straws.png) |
 | bufo-grenade.gif | ![bufo-grenade.gif](all-the-bufo/bufo-grenade.gif) |
 | bufo-grimaces-with-eyebrows.png | ![bufo-grimaces-with-eyebrows.png](all-the-bufo/bufo-grimaces-with-eyebrows.png) |
 | bufo-guitar.gif | ![bufo-guitar.gif](all-the-bufo/bufo-guitar.gif) |
@@ -1023,6 +1024,8 @@
 | bufo-praying-his-qa-is-on-point.png | ![bufo-praying-his-qa-is-on-point.png](all-the-bufo/bufo-praying-his-qa-is-on-point.png) |
 | bufo-prays-for-this-to-be-over-already-intensifies.gif | ![bufo-prays-for-this-to-be-over-already-intensifies.gif](all-the-bufo/bufo-prays-for-this-to-be-over-already-intensifies.gif) |
 | bufo-prays-for-this-to-be-over-already.png | ![bufo-prays-for-this-to-be-over-already.png](all-the-bufo/bufo-prays-for-this-to-be-over-already.png) |
+| bufo-prays-to-azure.png | ![bufo-prays-to-azure.png](all-the-bufo/bufo-prays-to-azure.png) |
+| bufo-prays-to-nvidia.png | ![bufo-prays-to-nvidia.png](all-the-bufo/bufo-prays-to-nvidia.png) |
 | bufo-prays-to-pagerduty.png | ![bufo-prays-to-pagerduty.png](all-the-bufo/bufo-prays-to-pagerduty.png) |
 | bufo-preach.png | ![bufo-preach.png](all-the-bufo/bufo-preach.png) |
 | bufo-presents-to-the-bufos.png | ![bufo-presents-to-the-bufos.png](all-the-bufo/bufo-presents-to-the-bufos.png) |
