@@ -1472,7 +1472,7 @@
 | christmas-bufo-on-a-goose.gif | ![christmas-bufo-on-a-goose.gif](all-the-bufo/christmas-bufo-on-a-goose.gif) |
 | circle-of-bufo.png | ![circle-of-bufo.png](all-the-bufo/circle-of-bufo.png) |
 | confused-math-bufo.png | ![confused-math-bufo.png](all-the-bufo/confused-math-bufo.png) |
-| constipated-frog-is-trying-his-hardest.gif | ![constipated-frog-is-trying-his-hardest.gif](all-the-bufo/constipated-frog-is-trying-his-hardest.gif) |
+| constipated-bufo-is-trying-his-hardest.gif | ![constipated-bufo-is-trying-his-hardest.gif](all-the-bufo/constipated-bufo-is-trying-his-hardest.gif) |
 | copper-bufo.png | ![copper-bufo.png](all-the-bufo/copper-bufo.png) |
 | corrupted-bufo.png | ![corrupted-bufo.png](all-the-bufo/corrupted-bufo.png) |
 | count-bufo.png | ![count-bufo.png](all-the-bufo/count-bufo.png) |
