@@ -126,6 +126,7 @@
 | bufo-blesses-this-pr.png | ![bufo-blesses-this-pr.png](all-the-bufo/bufo-blesses-this-pr.png) |
 | bufo-block.png | ![bufo-block.png](all-the-bufo/bufo-block.png) |
 | bufo-blogging.png | ![bufo-blogging.png](all-the-bufo/bufo-blogging.png) |
+| bufo-bloody-mary.png | ![bufo-bloody-mary.png](all-the-bufo/bufo-bloody-mary.png) |
 | bufo-blows-the-magic-conch.png | ![bufo-blows-the-magic-conch.png](all-the-bufo/bufo-blows-the-magic-conch.png) |
 | bufo-blue.png | ![bufo-blue.png](all-the-bufo/bufo-blue.png) |
 | bufo-blueberries.png | ![bufo-blueberries.png](all-the-bufo/bufo-blueberries.png) |
@@ -288,6 +289,7 @@
 | bufo-delurk.gif | ![bufo-delurk.gif](all-the-bufo/bufo-delurk.gif) |
 | bufo-demands-more-nom-noms.gif | ![bufo-demands-more-nom-noms.gif](all-the-bufo/bufo-demands-more-nom-noms.gif) |
 | bufo-demure.png | ![bufo-demure.png](all-the-bufo/bufo-demure.png) |
+| bufo-desperately-needs-mavis-beacon.gif | ![bufo-desperately-needs-mavis-beacon.gif](all-the-bufo/bufo-desperately-needs-mavis-beacon.gif) |
 | bufo-detective.png | ![bufo-detective.png](all-the-bufo/bufo-detective.png) |
 | bufo-develops-clairvoyance-while-trapped-in-the-void.png | ![bufo-develops-clairvoyance-while-trapped-in-the-void.png](all-the-bufo/bufo-develops-clairvoyance-while-trapped-in-the-void.png) |
 | bufo-devil.png | ![bufo-devil.png](all-the-bufo/bufo-devil.png) |
@@ -580,6 +582,7 @@
 | bufo-is-inhaling-this-popcorn.gif | ![bufo-is-inhaling-this-popcorn.gif](all-the-bufo/bufo-is-inhaling-this-popcorn.gif) |
 | bufo-is-it-done.gif | ![bufo-is-it-done.gif](all-the-bufo/bufo-is-it-done.gif) |
 | bufo-is-jealous-its-your-birthday.png | ![bufo-is-jealous-its-your-birthday.png](all-the-bufo/bufo-is-jealous-its-your-birthday.png) |
+| bufo-is-jean-baptise-emanuel-zorg.png | ![bufo-is-jean-baptise-emanuel-zorg.png](all-the-bufo/bufo-is-jean-baptise-emanuel-zorg.png) |
 | bufo-is-keeping-his-eye-on-you.gif | ![bufo-is-keeping-his-eye-on-you.gif](all-the-bufo/bufo-is-keeping-his-eye-on-you.gif) |
 | bufo-is-lonely.png | ![bufo-is-lonely.png](all-the-bufo/bufo-is-lonely.png) |
 | bufo-is-lost-in-the-void.png | ![bufo-is-lost-in-the-void.png](all-the-bufo/bufo-is-lost-in-the-void.png) |
