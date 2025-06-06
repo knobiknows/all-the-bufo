@@ -566,6 +566,7 @@
 | bufo-is-a-little-worried-but-still-trying-to-be-supportive.png | ![bufo-is-a-little-worried-but-still-trying-to-be-supportive.png](all-the-bufo/bufo-is-a-little-worried-but-still-trying-to-be-supportive.png) |
 | bufo-is-a-part-of-gen-z.png | ![bufo-is-a-part-of-gen-z.png](all-the-bufo/bufo-is-a-part-of-gen-z.png) |
 | bufo-is-about-to-zap-you.png | ![bufo-is-about-to-zap-you.png](all-the-bufo/bufo-is-about-to-zap-you.png) |
+| bufo-is-afflicated-with-the-double-dragon.png | ![bufo-is-afflicated-with-the-double-dragon.png](all-the-bufo/bufo-is-afflicated-with-the-double-dragon.png) |
 | bufo-is-all-ears.png | ![bufo-is-all-ears.png](all-the-bufo/bufo-is-all-ears.png) |
 | bufo-is-at-his-wits-end.png | ![bufo-is-at-his-wits-end.png](all-the-bufo/bufo-is-at-his-wits-end.png) |
 | bufo-is-at-the-dentist.png | ![bufo-is-at-the-dentist.png](all-the-bufo/bufo-is-at-the-dentist.png) |
@@ -834,6 +835,7 @@
 | bufo-offers-a-telescope.png | ![bufo-offers-a-telescope.png](all-the-bufo/bufo-offers-a-telescope.png) |
 | bufo-offers-a-tiny-wood-stove.png | ![bufo-offers-a-tiny-wood-stove.png](all-the-bufo/bufo-offers-a-tiny-wood-stove.png) |
 | bufo-offers-a-torta-ahogada.png | ![bufo-offers-a-torta-ahogada.png](all-the-bufo/bufo-offers-a-torta-ahogada.png) |
+| bufo-offers-a-way-out.png | ![bufo-offers-a-way-out.png](all-the-bufo/bufo-offers-a-way-out.png) |
 | bufo-offers-a-webhook-but-the-logo-is-canonically-correct.png | ![bufo-offers-a-webhook-but-the-logo-is-canonically-correct.png](all-the-bufo/bufo-offers-a-webhook-but-the-logo-is-canonically-correct.png) |
 | bufo-offers-a-webhook.png | ![bufo-offers-a-webhook.png](all-the-bufo/bufo-offers-a-webhook.png) |
 | bufo-offers-a-wednesday.png | ![bufo-offers-a-wednesday.png](all-the-bufo/bufo-offers-a-wednesday.png) |
