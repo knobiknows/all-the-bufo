@@ -567,6 +567,7 @@
 | bufo-is-a-part-of-gen-z.png | ![bufo-is-a-part-of-gen-z.png](all-the-bufo/bufo-is-a-part-of-gen-z.png) |
 | bufo-is-about-to-zap-you.png | ![bufo-is-about-to-zap-you.png](all-the-bufo/bufo-is-about-to-zap-you.png) |
 | bufo-is-all-ears.png | ![bufo-is-all-ears.png](all-the-bufo/bufo-is-all-ears.png) |
+| bufo-is-angry-at-the-water-cooler-bottle-company-for-missing-yet-another-delivery.png | ![bufo-is-angry-at-the-water-cooler-bottle-company-for-missing-yet-another-delivery.png](all-the-bufo/bufo-is-angry-at-the-water-cooler-bottle-company-for-missing-yet-another-delivery.png) |
 | bufo-is-at-his-wits-end.png | ![bufo-is-at-his-wits-end.png](all-the-bufo/bufo-is-at-his-wits-end.png) |
 | bufo-is-at-the-dentist.png | ![bufo-is-at-the-dentist.png](all-the-bufo/bufo-is-at-the-dentist.png) |
 | bufo-is-better-known-for-the-things-he-does-on-the-mattress.png | ![bufo-is-better-known-for-the-things-he-does-on-the-mattress.png](all-the-bufo/bufo-is-better-known-for-the-things-he-does-on-the-mattress.png) |
