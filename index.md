@@ -1325,6 +1325,7 @@
 | bufo-transmutes-reality.gif | ![bufo-transmutes-reality.gif](all-the-bufo/bufo-transmutes-reality.gif) |
 | bufo-trash-can.png | ![bufo-trash-can.png](all-the-bufo/bufo-trash-can.png) |
 | bufo-travels.png | ![bufo-travels.png](all-the-bufo/bufo-travels.png) |
+| bufo-tries-some-yummy-yummy-crossplane.png | ![bufo-tries-some-yummy-yummy-crossplane.png](all-the-bufo/bufo-tries-some-yummy-yummy-crossplane.png) |
 | bufo-tries-to-fight-you-but-his-arms-are-too-short-so-count-yourself-lucky.gif | ![bufo-tries-to-fight-you-but-his-arms-are-too-short-so-count-yourself-lucky.gif](all-the-bufo/bufo-tries-to-fight-you-but-his-arms-are-too-short-so-count-yourself-lucky.gif) |
 | bufo-tries-to-hug-you-back-but-his-arms-are-too-short.png | ![bufo-tries-to-hug-you-back-but-his-arms-are-too-short.png](all-the-bufo/bufo-tries-to-hug-you-back-but-his-arms-are-too-short.png) |
 | bufo-tries-to-hug-you-but-his-arms-are-too-short.png | ![bufo-tries-to-hug-you-but-his-arms-are-too-short.png](all-the-bufo/bufo-tries-to-hug-you-but-his-arms-are-too-short.png) |
@@ -1451,6 +1452,7 @@
 | bufodile.png | ![bufodile.png](all-the-bufo/bufodile.png) |
 | bufofoop.gif | ![bufofoop.gif](all-the-bufo/bufofoop.gif) |
 | bufoheimer.png | ![bufoheimer.png](all-the-bufo/bufoheimer.png) |
+| bufohub.png | ![bufohub.png](all-the-bufo/bufohub.png) |
 | bufoling.png | ![bufoling.png](all-the-bufo/bufoling.png) |
 | bufolo.png | ![bufolo.png](all-the-bufo/bufolo.png) |
 | bufolta.png | ![bufolta.png](all-the-bufo/bufolta.png) |
