@@ -161,6 +161,7 @@
 | bufo-brings-magic-to-the-riot.gif | ![bufo-brings-magic-to-the-riot.gif](all-the-bufo/bufo-brings-magic-to-the-riot.gif) |
 | bufo-broccoli.png | ![bufo-broccoli.png](all-the-bufo/bufo-broccoli.png) |
 | bufo-broke-his-toe-and-isn't-sure-what-to-do-about-the-12k-he-signed-up-for.png | ![bufo-broke-his-toe-and-isn't-sure-what-to-do-about-the-12k-he-signed-up-for.png](all-the-bufo/bufo-broke-his-toe-and-isn't-sure-what-to-do-about-the-12k-he-signed-up-for.png) |
+| bufo-broke.png | ![bufo-broke.png](all-the-bufo/bufo-broke.png) |
 | bufo-broom.png | ![bufo-broom.png](all-the-bufo/bufo-broom.png) |
 | bufo-brought-a-taco.png | ![bufo-brought-a-taco.png](all-the-bufo/bufo-brought-a-taco.png) |
 | bufo-bufo.png | ![bufo-bufo.png](all-the-bufo/bufo-bufo.png) |
@@ -1240,6 +1241,7 @@
 | bufo-takes-your-pizza.png | ![bufo-takes-your-pizza.png](all-the-bufo/bufo-takes-your-pizza.png) |
 | bufo-takes-yubikey.png | ![bufo-takes-yubikey.png](all-the-bufo/bufo-takes-yubikey.png) |
 | bufo-takes-zoom.png | ![bufo-takes-zoom.png](all-the-bufo/bufo-takes-zoom.png) |
+| bufo-talks-to-brick-wall.gif | ![bufo-talks-to-brick-wall.gif](all-the-bufo/bufo-talks-to-brick-wall.gif) |
 | bufo-tapioca-pearl.png | ![bufo-tapioca-pearl.png](all-the-bufo/bufo-tapioca-pearl.png) |
 | bufo-tea.png | ![bufo-tea.png](all-the-bufo/bufo-tea.png) |
 | bufo-teal.png | ![bufo-teal.png](all-the-bufo/bufo-teal.png) |
