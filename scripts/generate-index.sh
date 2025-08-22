@@ -8,22 +8,16 @@ index_file="index.md"
 echo "| name | image |
 | - | - |" > "$index_file"
 
-# Initialize an empty array
-files=()
+find_image_files() {
+    find "$bufo_folder" -type f \( -iname "*.png" -o -iname "*.gif" -o -iname "*.jpeg" \)
+}
 
-# Use find to locate PNG and GIF files, sort them, and read into the array
-while IFS= read -r line; do
-    files+=("$line")
-done < <(find "$bufo_folder" -type f \( -iname "*.png" -o -iname "*.gif" -o -iname "*.jpeg" \) | sort)
+extract_filename() {
+    sed 's|.*/||'
+}
 
-# Loop through each image file in the sorted array
-for image_file in "${files[@]}"; do
-    # Get the file name
-    file_name=$(basename "$image_file")
+format_as_markdown_row() {
+    awk '{printf "| %s | ![%s](all-the-bufo/%s) |\n", $0, $0, $0}'
+}
 
-    # Generate the markdown line for the image
-    markdown_line="| $file_name | ![$file_name](all-the-bufo/$file_name) |"
-
-    # Append the markdown line to the index.md file
-    echo "$markdown_line" >> "$index_file"
-done
+find_image_files | sort | extract_filename | format_as_markdown_row >> "$index_file"
