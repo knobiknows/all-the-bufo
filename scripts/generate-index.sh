@@ -20,4 +20,4 @@ format_as_markdown_row() {
     awk '{printf "| %s | ![%s](all-the-bufo/%s) |\n", $0, $0, $0}'
 }
 
-find_image_files | sort | extract_filename | format_as_markdown_row >> "$index_file"
+find_image_files | LC_ALL=C sort | extract_filename | format_as_markdown_row >> "$index_file"
