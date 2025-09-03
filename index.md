@@ -1561,7 +1561,6 @@
 | sad-bufo.png | ![sad-bufo.png](all-the-bufo/sad-bufo.png) |
 | safe-driver-bufo.png | ![safe-driver-bufo.png](all-the-bufo/safe-driver-bufo.png) |
 | señor-bufo.png | ![señor-bufo.png](all-the-bufo/señor-bufo.png) |
-| señor-bufo.png | ![señor-bufo.png](all-the-bufo/señor-bufo.png) |
 | shiny-bufo.gif | ![shiny-bufo.gif](all-the-bufo/shiny-bufo.gif) |
 | shut-up-and-take-my-bufo.png | ![shut-up-and-take-my-bufo.png](all-the-bufo/shut-up-and-take-my-bufo.png) |
 | silver-bufo.png | ![silver-bufo.png](all-the-bufo/silver-bufo.png) |
