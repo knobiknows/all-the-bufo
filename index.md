@@ -27,7 +27,8 @@
 | breaking-bufo.png | ![breaking-bufo.png](all-the-bufo/breaking-bufo.png) |
 | bronze-bufo.png | ![bronze-bufo.png](all-the-bufo/bronze-bufo.png) |
 | buff-bufo.png | ![buff-bufo.png](all-the-bufo/buff-bufo.png) |
-| bufo_wants_his_money.png | ![bufo_wants_his_money.png](all-the-bufo/bufo_wants_his_money.png) |
+| bufo's-a-gamer-girl-but-specifically-nyt-games.png | ![bufo's-a-gamer-girl-but-specifically-nyt-games.png](all-the-bufo/bufo's-a-gamer-girl-but-specifically-nyt-games.png) |
+| bufo+1.png | ![bufo+1.png](all-the-bufo/bufo+1.png) |
 | bufo-0-10.png | ![bufo-0-10.png](all-the-bufo/bufo-0-10.png) |
 | bufo-10-4.png | ![bufo-10-4.png](all-the-bufo/bufo-10-4.png) |
 | bufo-10.png | ![bufo-10.png](all-the-bufo/bufo-10.png) |
@@ -113,11 +114,11 @@
 | bufo-birthday-but-not-particularly-happy.png | ![bufo-birthday-but-not-particularly-happy.png](all-the-bufo/bufo-birthday-but-not-particularly-happy.png) |
 | bufo-black-history.png | ![bufo-black-history.png](all-the-bufo/bufo-black-history.png) |
 | bufo-black-tea.png | ![bufo-black-tea.png](all-the-bufo/bufo-black-tea.png) |
+| bufo-blank-stare.png | ![bufo-blank-stare.png](all-the-bufo/bufo-blank-stare.png) |
 | bufo-blank-stare_0_0.png | ![bufo-blank-stare_0_0.png](all-the-bufo/bufo-blank-stare_0_0.png) |
 | bufo-blank-stare_0_1.png | ![bufo-blank-stare_0_1.png](all-the-bufo/bufo-blank-stare_0_1.png) |
 | bufo-blank-stare_1_0.png | ![bufo-blank-stare_1_0.png](all-the-bufo/bufo-blank-stare_1_0.png) |
 | bufo-blank-stare_1_1.png | ![bufo-blank-stare_1_1.png](all-the-bufo/bufo-blank-stare_1_1.png) |
-| bufo-blank-stare.png | ![bufo-blank-stare.png](all-the-bufo/bufo-blank-stare.png) |
 | bufo-blanket.png | ![bufo-blanket.png](all-the-bufo/bufo-blanket.png) |
 | bufo-blem.png | ![bufo-blem.png](all-the-bufo/bufo-blem.png) |
 | bufo-blep.png | ![bufo-blep.png](all-the-bufo/bufo-blep.png) |
@@ -412,9 +413,9 @@
 | bufo-furiously-tries-to-write-python.gif | ![bufo-furiously-tries-to-write-python.gif](all-the-bufo/bufo-furiously-tries-to-write-python.gif) |
 | bufo-furiously-writes-an-epic-update.gif | ![bufo-furiously-writes-an-epic-update.gif](all-the-bufo/bufo-furiously-writes-an-epic-update.gif) |
 | bufo-furiously-writes-you-a-peer-review.gif | ![bufo-furiously-writes-you-a-peer-review.gif](all-the-bufo/bufo-furiously-writes-you-a-peer-review.gif) |
-| bufo-fußball.png | ![bufo-fußball.png](all-the-bufo/bufo-fußball.png) |
 | bufo-futbol.gif | ![bufo-futbol.gif](all-the-bufo/bufo-futbol.gif) |
 | bufo-futbol.png | ![bufo-futbol.png](all-the-bufo/bufo-futbol.png) |
+| bufo-fußball.png | ![bufo-fußball.png](all-the-bufo/bufo-fußball.png) |
 | bufo-gamer.png | ![bufo-gamer.png](all-the-bufo/bufo-gamer.png) |
 | bufo-gaming.png | ![bufo-gaming.png](all-the-bufo/bufo-gaming.png) |
 | bufo-gandalf-has-seen-things.png | ![bufo-gandalf-has-seen-things.png](all-the-bufo/bufo-gandalf-has-seen-things.png) |
@@ -991,6 +992,7 @@
 | bufo-picked-you-a-flower.png | ![bufo-picked-you-a-flower.png](all-the-bufo/bufo-picked-you-a-flower.png) |
 | bufo-pikmin.png | ![bufo-pikmin.png](all-the-bufo/bufo-pikmin.png) |
 | bufo-pilgrim.png | ![bufo-pilgrim.png](all-the-bufo/bufo-pilgrim.png) |
+| bufo-pilot.png | ![bufo-pilot.png](all-the-bufo/bufo-pilot.png) |
 | bufo-pinch-hitter.png | ![bufo-pinch-hitter.png](all-the-bufo/bufo-pinch-hitter.png) |
 | bufo-pineapple.png | ![bufo-pineapple.png](all-the-bufo/bufo-pineapple.png) |
 | bufo-ping.png | ![bufo-ping.png](all-the-bufo/bufo-ping.png) |
@@ -1445,8 +1447,7 @@
 | bufo-zoom-right.gif | ![bufo-zoom-right.gif](all-the-bufo/bufo-zoom-right.gif) |
 | bufo-zoom.gif | ![bufo-zoom.gif](all-the-bufo/bufo-zoom.gif) |
 | bufo.png | ![bufo.png](all-the-bufo/bufo.png) |
-| bufo's-a-gamer-girl-but-specifically-nyt-games.png | ![bufo's-a-gamer-girl-but-specifically-nyt-games.png](all-the-bufo/bufo's-a-gamer-girl-but-specifically-nyt-games.png) |
-| bufo+1.png | ![bufo+1.png](all-the-bufo/bufo+1.png) |
+| bufo_wants_his_money.png | ![bufo_wants_his_money.png](all-the-bufo/bufo_wants_his_money.png) |
 | bufobot.png | ![bufobot.png](all-the-bufo/bufobot.png) |
 | bufochu.png | ![bufochu.png](all-the-bufo/bufochu.png) |
 | bufocopter.png | ![bufocopter.png](all-the-bufo/bufocopter.png) |
@@ -1455,6 +1456,7 @@
 | bufofoop.gif | ![bufofoop.gif](all-the-bufo/bufofoop.gif) |
 | bufoheimer.png | ![bufoheimer.png](all-the-bufo/bufoheimer.png) |
 | bufohub.png | ![bufohub.png](all-the-bufo/bufohub.png) |
+| bufolatro.png | ![bufolatro.png](all-the-bufo/bufolatro.png) |
 | bufoling.png | ![bufoling.png](all-the-bufo/bufoling.png) |
 | bufolo.png | ![bufolo.png](all-the-bufo/bufolo.png) |
 | bufolta.png | ![bufolta.png](all-the-bufo/bufolta.png) |
@@ -1575,13 +1577,13 @@
 | tabufo.png | ![tabufo.png](all-the-bufo/tabufo.png) |
 | teamwork-makes-the-bufo-work.png | ![teamwork-makes-the-bufo-work.png](all-the-bufo/teamwork-makes-the-bufo-work.png) |
 | ted-bufo.png | ![ted-bufo.png](all-the-bufo/ted-bufo.png) |
-| the_bufo_formerly_know_as_froge.png | ![the_bufo_formerly_know_as_froge.png](all-the-bufo/the_bufo_formerly_know_as_froge.png) |
 | the-bufo-nightmare-before-christmas.png | ![the-bufo-nightmare-before-christmas.png](all-the-bufo/the-bufo-nightmare-before-christmas.png) |
 | the-bufo-we-deserve.png | ![the-bufo-we-deserve.png](all-the-bufo/the-bufo-we-deserve.png) |
 | the-bufos-new-groove.png | ![the-bufos-new-groove.png](all-the-bufo/the-bufos-new-groove.png) |
 | the-creation-of-bufo.png | ![the-creation-of-bufo.png](all-the-bufo/the-creation-of-bufo.png) |
 | the-more-you-bufo.png | ![the-more-you-bufo.png](all-the-bufo/the-more-you-bufo.png) |
 | the-pinkest-bufo-there-ever-was.png | ![the-pinkest-bufo-there-ever-was.png](all-the-bufo/the-pinkest-bufo-there-ever-was.png) |
+| the_bufo_formerly_know_as_froge.png | ![the_bufo_formerly_know_as_froge.png](all-the-bufo/the_bufo_formerly_know_as_froge.png) |
 | theres-a-bufo-for-that.png | ![theres-a-bufo-for-that.png](all-the-bufo/theres-a-bufo-for-that.png) |
 | this-8-dollar-starbucks-drink-isnt-helping-bufo-feel-any-better.png | ![this-8-dollar-starbucks-drink-isnt-helping-bufo-feel-any-better.png](all-the-bufo/this-8-dollar-starbucks-drink-isnt-helping-bufo-feel-any-better.png) |
 | this-is-bufo.png | ![this-is-bufo.png](all-the-bufo/this-is-bufo.png) |
