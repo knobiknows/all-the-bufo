@@ -20,4 +20,4 @@ format_as_markdown_row() {
     awk '{printf "| %s | ![%s](all-the-bufo/%s) |\n", $0, $0, $0}'
 }
 
-find_image_files | extract_filename | uconv -x any-nfc | LC_ALL=C sort | uniq | format_as_markdown_row >> "$index_file"
+find_image_files | extract_filename | python3 -c "import sys, unicodedata; [sys.stdout.write(unicodedata.normalize('NFC', line)) for line in sys.stdin]" | LC_ALL=C sort | uniq | format_as_markdown_row >> "$index_file"
