@@ -602,6 +602,7 @@
 | bufo-is-ready-to-consume-his-daily-sodium-intake-in-one-sitting.png | ![bufo-is-ready-to-consume-his-daily-sodium-intake-in-one-sitting.png](all-the-bufo/bufo-is-ready-to-consume-his-daily-sodium-intake-in-one-sitting.png) |
 | bufo-is-ready-to-eat.png | ![bufo-is-ready-to-eat.png](all-the-bufo/bufo-is-ready-to-eat.png) |
 | bufo-is-ready-to-riot.png | ![bufo-is-ready-to-riot.png](all-the-bufo/bufo-is-ready-to-riot.png) |
+| bufo-is-ready-to-slay-the-dragon.png | ![bufo-is-ready-to-slay-the-dragon.png](all-the-bufo/bufo-is-ready-to-slay-the-dragon.png) |
 | bufo-is-romantic.png | ![bufo-is-romantic.png](all-the-bufo/bufo-is-romantic.png) |
 | bufo-is-sad-no-one-complimented-their-agent-47-cosplay.png | ![bufo-is-sad-no-one-complimented-their-agent-47-cosplay.png](all-the-bufo/bufo-is-sad-no-one-complimented-their-agent-47-cosplay.png) |
 | bufo-is-safe-behind-bars.gif | ![bufo-is-safe-behind-bars.gif](all-the-bufo/bufo-is-safe-behind-bars.gif) |
@@ -1196,6 +1197,7 @@
 | bufo-stick-reverse.gif | ![bufo-stick-reverse.gif](all-the-bufo/bufo-stick-reverse.gif) |
 | bufo-stick.gif | ![bufo-stick.gif](all-the-bufo/bufo-stick.gif) |
 | bufo-stole-caribufos-antler.png | ![bufo-stole-caribufos-antler.png](all-the-bufo/bufo-stole-caribufos-antler.png) |
+| bufo-stole-your-crunchwrap-before-you-could-finish-it.png | ![bufo-stole-your-crunchwrap-before-you-could-finish-it.png](all-the-bufo/bufo-stole-your-crunchwrap-before-you-could-finish-it.png) |
 | bufo-stoned.png | ![bufo-stoned.png](all-the-bufo/bufo-stoned.png) |
 | bufo-stonks.png | ![bufo-stonks.png](all-the-bufo/bufo-stonks.png) |
 | bufo-stonks2.png | ![bufo-stonks2.png](all-the-bufo/bufo-stonks2.png) |
