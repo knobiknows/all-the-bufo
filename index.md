@@ -1363,6 +1363,7 @@
 | bufo-vibe-dance.gif | ![bufo-vibe-dance.gif](all-the-bufo/bufo-vibe-dance.gif) |
 | bufo-vibe.gif | ![bufo-vibe.gif](all-the-bufo/bufo-vibe.gif) |
 | bufo-vomit.png | ![bufo-vomit.png](all-the-bufo/bufo-vomit.png) |
+| bufo-voted.png | ![bufo-voted.png](all-the-bufo/bufo-voted.png) |
 | bufo-waddle.gif | ![bufo-waddle.gif](all-the-bufo/bufo-waddle.gif) |
 | bufo-waiting-for-aws-to-deep-archive-our-data.png | ![bufo-waiting-for-aws-to-deep-archive-our-data.png](all-the-bufo/bufo-waiting-for-aws-to-deep-archive-our-data.png) |
 | bufo-waiting-for-azure.png | ![bufo-waiting-for-azure.png](all-the-bufo/bufo-waiting-for-azure.png) |
