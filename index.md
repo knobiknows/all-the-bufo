@@ -1493,6 +1493,7 @@
 | confused-math-bufo.png | ![confused-math-bufo.png](all-the-bufo/confused-math-bufo.png) |
 | constipated-bufo-is-trying-his-hardest.gif | ![constipated-bufo-is-trying-his-hardest.gif](all-the-bufo/constipated-bufo-is-trying-his-hardest.gif) |
 | copper-bufo.png | ![copper-bufo.png](all-the-bufo/copper-bufo.png) |
+| corporate-bufo-demands-more-ai-slop.gif | ![corporate-bufo-demands-more-ai-slop.gif](all-the-bufo/corporate-bufo-demands-more-ai-slop.gif) |
 | corrupted-bufo.png | ![corrupted-bufo.png](all-the-bufo/corrupted-bufo.png) |
 | count-bufo.png | ![count-bufo.png](all-the-bufo/count-bufo.png) |
 | daily-dose-of-bufo-vitamins.png | ![daily-dose-of-bufo-vitamins.png](all-the-bufo/daily-dose-of-bufo-vitamins.png) |
