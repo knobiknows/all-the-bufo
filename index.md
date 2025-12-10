@@ -922,6 +922,7 @@
 | bufo-offers-prescription-strength-painkillers.png | ![bufo-offers-prescription-strength-painkillers.png](all-the-bufo/bufo-offers-prescription-strength-painkillers.png) |
 | bufo-offers-python.png | ![bufo-offers-python.png](all-the-bufo/bufo-offers-python.png) |
 | bufo-offers-securifriend.png | ![bufo-offers-securifriend.png](all-the-bufo/bufo-offers-securifriend.png) |
+| bufo-offers-slack.png | ![bufo-offers-slack.png](all-the-bufo/bufo-offers-slack.png) |
 | bufo-offers-solar-eclipse.png | ![bufo-offers-solar-eclipse.png](all-the-bufo/bufo-offers-solar-eclipse.png) |
 | bufo-offers-spam.png | ![bufo-offers-spam.png](all-the-bufo/bufo-offers-spam.png) |
 | bufo-offers-stash-of-tea-from-the-office-for-the-weekend.png | ![bufo-offers-stash-of-tea-from-the-office-for-the-weekend.png](all-the-bufo/bufo-offers-stash-of-tea-from-the-office-for-the-weekend.png) |
@@ -1291,6 +1292,7 @@
 | bufo-thinks-about-quarter.gif | ![bufo-thinks-about-quarter.gif](all-the-bufo/bufo-thinks-about-quarter.gif) |
 | bufo-thinks-about-redis.gif | ![bufo-thinks-about-redis.gif](all-the-bufo/bufo-thinks-about-redis.gif) |
 | bufo-thinks-about-rubberduck.png | ![bufo-thinks-about-rubberduck.png](all-the-bufo/bufo-thinks-about-rubberduck.png) |
+| bufo-thinks-about-slack.png | ![bufo-thinks-about-slack.png](all-the-bufo/bufo-thinks-about-slack.png) |
 | bufo-thinks-about-steak.png | ![bufo-thinks-about-steak.png](all-the-bufo/bufo-thinks-about-steak.png) |
 | bufo-thinks-about-steakholder.png | ![bufo-thinks-about-steakholder.png](all-the-bufo/bufo-thinks-about-steakholder.png) |
 | bufo-thinks-about-teams.png | ![bufo-thinks-about-teams.png](all-the-bufo/bufo-thinks-about-teams.png) |
