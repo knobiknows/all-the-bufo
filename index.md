@@ -583,6 +583,7 @@
 | bufo-is-glad-the-british-were-kicked-out.png | ![bufo-is-glad-the-british-were-kicked-out.png](all-the-bufo/bufo-is-glad-the-british-were-kicked-out.png) |
 | bufo-is-happy-youre-happy.png | ![bufo-is-happy-youre-happy.png](all-the-bufo/bufo-is-happy-youre-happy.png) |
 | bufo-is-having-a-really-bad-time.png | ![bufo-is-having-a-really-bad-time.png](all-the-bufo/bufo-is-having-a-really-bad-time.png) |
+| bufo-is-having-war-flashbacks.png | ![bufo-is-having-war-flashbacks.png](all-the-bufo/bufo-is-having-war-flashbacks.png) |
 | bufo-is-in-a-never-ending-meeting.png | ![bufo-is-in-a-never-ending-meeting.png](all-the-bufo/bufo-is-in-a-never-ending-meeting.png) |
 | bufo-is-in-on-the-joke.png | ![bufo-is-in-on-the-joke.png](all-the-bufo/bufo-is-in-on-the-joke.png) |
 | bufo-is-inhaling-this-popcorn.gif | ![bufo-is-inhaling-this-popcorn.gif](all-the-bufo/bufo-is-inhaling-this-popcorn.gif) |
