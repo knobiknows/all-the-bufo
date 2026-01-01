@@ -33,6 +33,7 @@
 | bufo-10-4.png | ![bufo-10-4.png](all-the-bufo/bufo-10-4.png) |
 | bufo-10.png | ![bufo-10.png](all-the-bufo/bufo-10.png) |
 | bufo-2022.png | ![bufo-2022.png](all-the-bufo/bufo-2022.png) |
+| bufo-accepts-a-popsicle.png | ![bufo-accepts-a-popsicle.png](all-the-bufo/bufo-accepts-a-popsicle.png) |
 | bufo-achieving-coding-flow.png | ![bufo-achieving-coding-flow.png](all-the-bufo/bufo-achieving-coding-flow.png) |
 | bufo-ack.png | ![bufo-ack.png](all-the-bufo/bufo-ack.png) |
 | bufo-actually.png | ![bufo-actually.png](all-the-bufo/bufo-actually.png) |
@@ -158,6 +159,7 @@
 | bufo-breaks-up-with-you.png | ![bufo-breaks-up-with-you.png](all-the-bufo/bufo-breaks-up-with-you.png) |
 | bufo-breaks-your-heart.png | ![bufo-breaks-your-heart.png](all-the-bufo/bufo-breaks-your-heart.png) |
 | bufo-brick.png | ![bufo-brick.png](all-the-bufo/bufo-brick.png) |
+| bufo-bright.png | ![bufo-bright.png](all-the-bufo/bufo-bright.png) |
 | bufo-brings-a-new-meaning-to-brain-freeze-by-bopping-you-on-the-head-with-a-popsicle.gif | ![bufo-brings-a-new-meaning-to-brain-freeze-by-bopping-you-on-the-head-with-a-popsicle.gif](all-the-bufo/bufo-brings-a-new-meaning-to-brain-freeze-by-bopping-you-on-the-head-with-a-popsicle.gif) |
 | bufo-brings-a-new-meaning-to-gaveled-by-slamming-the-hammer-very-loud.gif | ![bufo-brings-a-new-meaning-to-gaveled-by-slamming-the-hammer-very-loud.gif](all-the-bufo/bufo-brings-a-new-meaning-to-gaveled-by-slamming-the-hammer-very-loud.gif) |
 | bufo-brings-magic-to-the-riot.gif | ![bufo-brings-magic-to-the-riot.gif](all-the-bufo/bufo-brings-magic-to-the-riot.gif) |
@@ -168,6 +170,8 @@
 | bufo-brought-a-taco.png | ![bufo-brought-a-taco.png](all-the-bufo/bufo-brought-a-taco.png) |
 | bufo-bufo.png | ![bufo-bufo.png](all-the-bufo/bufo-bufo.png) |
 | bufo-but-anatomically-correct.png | ![bufo-but-anatomically-correct.png](all-the-bufo/bufo-but-anatomically-correct.png) |
+| bufo-but-his-arms-are-ho-scale-model-trains.png | ![bufo-but-his-arms-are-ho-scale-model-trains.png](all-the-bufo/bufo-but-his-arms-are-ho-scale-model-trains.png) |
+| bufo-but-his-arms-are-lava-lamps.png | ![bufo-but-his-arms-are-lava-lamps.png](all-the-bufo/bufo-but-his-arms-are-lava-lamps.png) |
 | bufo-but-instead-of-green-its-hotdogs.png | ![bufo-but-instead-of-green-its-hotdogs.png](all-the-bufo/bufo-but-instead-of-green-its-hotdogs.png) |
 | bufo-but-instead-of-green-its-pizza.png | ![bufo-but-instead-of-green-its-pizza.png](all-the-bufo/bufo-but-instead-of-green-its-pizza.png) |
 | bufo-but-you-can-feel-the-electro-house-music-in-the-gif-and-oh-yea-theres-also-a-dapper-chicken.gif | ![bufo-but-you-can-feel-the-electro-house-music-in-the-gif-and-oh-yea-theres-also-a-dapper-chicken.gif](all-the-bufo/bufo-but-you-can-feel-the-electro-house-music-in-the-gif-and-oh-yea-theres-also-a-dapper-chicken.gif) |
@@ -202,6 +206,7 @@
 | bufo-caused-an-incident.png | ![bufo-caused-an-incident.png](all-the-bufo/bufo-caused-an-incident.png) |
 | bufo-celebrate.png | ![bufo-celebrate.png](all-the-bufo/bufo-celebrate.png) |
 | bufo-censored.png | ![bufo-censored.png](all-the-bufo/bufo-censored.png) |
+| bufo-champions-trunk-based-development.png | ![bufo-champions-trunk-based-development.png](all-the-bufo/bufo-champions-trunk-based-development.png) |
 | bufo-chappell-roan.png | ![bufo-chappell-roan.png](all-the-bufo/bufo-chappell-roan.png) |
 | bufo-chatting.gif | ![bufo-chatting.gif](all-the-bufo/bufo-chatting.gif) |
 | bufo-check.png | ![bufo-check.png](all-the-bufo/bufo-check.png) |
@@ -235,6 +240,7 @@
 | bufo-confetti.png | ![bufo-confetti.png](all-the-bufo/bufo-confetti.png) |
 | bufo-confused.gif | ![bufo-confused.gif](all-the-bufo/bufo-confused.gif) |
 | bufo-congrats.png | ![bufo-congrats.png](all-the-bufo/bufo-congrats.png) |
+| bufo-considers-tasting-the-tide-pod-just-this-one-time.png | ![bufo-considers-tasting-the-tide-pod-just-this-one-time.png](all-the-bufo/bufo-considers-tasting-the-tide-pod-just-this-one-time.png) |
 | bufo-cookie.png | ![bufo-cookie.png](all-the-bufo/bufo-cookie.png) |
 | bufo-cool-glasses.gif | ![bufo-cool-glasses.gif](all-the-bufo/bufo-cool-glasses.gif) |
 | bufo-corn.png | ![bufo-corn.png](all-the-bufo/bufo-corn.png) |
@@ -285,6 +291,7 @@
 | bufo-dancing.gif | ![bufo-dancing.gif](all-the-bufo/bufo-dancing.gif) |
 | bufo-dapper.png | ![bufo-dapper.png](all-the-bufo/bufo-dapper.png) |
 | bufo-dbz.png | ![bufo-dbz.png](all-the-bufo/bufo-dbz.png) |
+| bufo-dead.png | ![bufo-dead.png](all-the-bufo/bufo-dead.png) |
 | bufo-deal-with-it.png | ![bufo-deal-with-it.png](all-the-bufo/bufo-deal-with-it.png) |
 | bufo-declines-your-suppository-offer.png | ![bufo-declines-your-suppository-offer.png](all-the-bufo/bufo-declines-your-suppository-offer.png) |
 | bufo-deep-hmm.gif | ![bufo-deep-hmm.gif](all-the-bufo/bufo-deep-hmm.gif) |
@@ -341,6 +348,7 @@
 | bufo-drowns-in-tickets-but-ok.png | ![bufo-drowns-in-tickets-but-ok.png](all-the-bufo/bufo-drowns-in-tickets-but-ok.png) |
 | bufo-drumroll.png | ![bufo-drumroll.png](all-the-bufo/bufo-drumroll.png) |
 | bufo-easter-bunny.png | ![bufo-easter-bunny.png](all-the-bufo/bufo-easter-bunny.png) |
+| bufo-eating-bufo-dog.png | ![bufo-eating-bufo-dog.png](all-the-bufo/bufo-eating-bufo-dog.png) |
 | bufo-eating-hotdog.png | ![bufo-eating-hotdog.png](all-the-bufo/bufo-eating-hotdog.png) |
 | bufo-eating-lollipop.png | ![bufo-eating-lollipop.png](all-the-bufo/bufo-eating-lollipop.png) |
 | bufo-eats-a-bufo-taco.png | ![bufo-eats-a-bufo-taco.png](all-the-bufo/bufo-eats-a-bufo-taco.png) |
@@ -377,6 +385,7 @@
 | bufo-fancy-tea.png | ![bufo-fancy-tea.png](all-the-bufo/bufo-fancy-tea.png) |
 | bufo-farmer.png | ![bufo-farmer.png](all-the-bufo/bufo-farmer.png) |
 | bufo-fastest-rubber-stamp-in-the-west.png | ![bufo-fastest-rubber-stamp-in-the-west.png](all-the-bufo/bufo-fastest-rubber-stamp-in-the-west.png) |
+| bufo-fears-the-full-moon.png | ![bufo-fears-the-full-moon.png](all-the-bufo/bufo-fears-the-full-moon.png) |
 | bufo-fedora.png | ![bufo-fedora.png](all-the-bufo/bufo-fedora.png) |
 | bufo-feel-better.png | ![bufo-feel-better.png](all-the-bufo/bufo-feel-better.png) |
 | bufo-feeling-pretty-might-delete-later.png | ![bufo-feeling-pretty-might-delete-later.png](all-the-bufo/bufo-feeling-pretty-might-delete-later.png) |
@@ -405,6 +414,8 @@
 | bufo-for-dummies.png | ![bufo-for-dummies.png](all-the-bufo/bufo-for-dummies.png) |
 | bufo-forgot-how-to-type.gif | ![bufo-forgot-how-to-type.gif](all-the-bufo/bufo-forgot-how-to-type.gif) |
 | bufo-forgot-that-you-existed-it-isnt-love-it-isnt-hate-its-just-indifference.png | ![bufo-forgot-that-you-existed-it-isnt-love-it-isnt-hate-its-just-indifference.png](all-the-bufo/bufo-forgot-that-you-existed-it-isnt-love-it-isnt-hate-its-just-indifference.png) |
+| bufo-forgot-to-charge-his-airpods-before-the-flight-and-now-has-to-be-alone-with-his-thoughts.png | ![bufo-forgot-to-charge-his-airpods-before-the-flight-and-now-has-to-be-alone-with-his-thoughts.png](all-the-bufo/bufo-forgot-to-charge-his-airpods-before-the-flight-and-now-has-to-be-alone-with-his-thoughts.png) |
+| bufo-found-a-cockroach-in-the-office.png | ![bufo-found-a-cockroach-in-the-office.png](all-the-bufo/bufo-found-a-cockroach-in-the-office.png) |
 | bufo-found-some-more-leeks.png | ![bufo-found-some-more-leeks.png](all-the-bufo/bufo-found-some-more-leeks.png) |
 | bufo-found-the-leeks.png | ![bufo-found-the-leeks.png](all-the-bufo/bufo-found-the-leeks.png) |
 | bufo-found-yet-another-juicebox.png | ![bufo-found-yet-another-juicebox.png](all-the-bufo/bufo-found-yet-another-juicebox.png) |
@@ -450,6 +461,7 @@
 | bufo-gives-databricks.png | ![bufo-gives-databricks.png](all-the-bufo/bufo-gives-databricks.png) |
 | bufo-gives-j.png | ![bufo-gives-j.png](all-the-bufo/bufo-gives-j.png) |
 | bufo-gives-star.png | ![bufo-gives-star.png](all-the-bufo/bufo-gives-star.png) |
+| bufo-gives-vin-diesel-a-gentle-little-kiss-on-his-shiny-head.png | ![bufo-gives-vin-diesel-a-gentle-little-kiss-on-his-shiny-head.png](all-the-bufo/bufo-gives-vin-diesel-a-gentle-little-kiss-on-his-shiny-head.png) |
 | bufo-gives-you-a-feature-flag.png | ![bufo-gives-you-a-feature-flag.png](all-the-bufo/bufo-gives-you-a-feature-flag.png) |
 | bufo-gives-you-a-hotdog.png | ![bufo-gives-you-a-hotdog.png](all-the-bufo/bufo-gives-you-a-hotdog.png) |
 | bufo-gives-you-some-extra-brain.png | ![bufo-gives-you-some-extra-brain.png](all-the-bufo/bufo-gives-you-some-extra-brain.png) |
@@ -557,6 +569,7 @@
 | bufo-in-rome.png | ![bufo-in-rome.png](all-the-bufo/bufo-in-rome.png) |
 | bufo-inception.png | ![bufo-inception.png](all-the-bufo/bufo-inception.png) |
 | bufo-increases-his-dimensionality-while-trapped-in-the-void.png | ![bufo-increases-his-dimensionality-while-trapped-in-the-void.png](all-the-bufo/bufo-increases-his-dimensionality-while-trapped-in-the-void.png) |
+| bufo-indulges-in-a-hot-dog-omakase.png | ![bufo-indulges-in-a-hot-dog-omakase.png](all-the-bufo/bufo-indulges-in-a-hot-dog-omakase.png) |
 | bufo-innocent.gif | ![bufo-innocent.gif](all-the-bufo/bufo-innocent.gif) |
 | bufo-inspecting.png | ![bufo-inspecting.png](all-the-bufo/bufo-inspecting.png) |
 | bufo-inspired.png | ![bufo-inspired.png](all-the-bufo/bufo-inspired.png) |
@@ -570,13 +583,18 @@
 | bufo-ironside.png | ![bufo-ironside.png](all-the-bufo/bufo-ironside.png) |
 | bufo-is-a-little-worried-but-still-trying-to-be-supportive.png | ![bufo-is-a-little-worried-but-still-trying-to-be-supportive.png](all-the-bufo/bufo-is-a-little-worried-but-still-trying-to-be-supportive.png) |
 | bufo-is-a-part-of-gen-z.png | ![bufo-is-a-part-of-gen-z.png](all-the-bufo/bufo-is-a-part-of-gen-z.png) |
+| bufo-is-a-steak-holder.png | ![bufo-is-a-steak-holder.png](all-the-bufo/bufo-is-a-steak-holder.png) |
 | bufo-is-about-to-zap-you.png | ![bufo-is-about-to-zap-you.png](all-the-bufo/bufo-is-about-to-zap-you.png) |
 | bufo-is-all-ears.png | ![bufo-is-all-ears.png](all-the-bufo/bufo-is-all-ears.png) |
+| bufo-is-an-ai-generated-meerkat.png | ![bufo-is-an-ai-generated-meerkat.png](all-the-bufo/bufo-is-an-ai-generated-meerkat.png) |
+| bufo-is-an-anime-geisha.png | ![bufo-is-an-anime-geisha.png](all-the-bufo/bufo-is-an-anime-geisha.png) |
 | bufo-is-angry-at-the-water-cooler-bottle-company-for-missing-yet-another-delivery.png | ![bufo-is-angry-at-the-water-cooler-bottle-company-for-missing-yet-another-delivery.png](all-the-bufo/bufo-is-angry-at-the-water-cooler-bottle-company-for-missing-yet-another-delivery.png) |
 | bufo-is-at-his-wits-end.png | ![bufo-is-at-his-wits-end.png](all-the-bufo/bufo-is-at-his-wits-end.png) |
 | bufo-is-at-the-dentist.png | ![bufo-is-at-the-dentist.png](all-the-bufo/bufo-is-at-the-dentist.png) |
 | bufo-is-better-known-for-the-things-he-does-on-the-mattress.png | ![bufo-is-better-known-for-the-things-he-does-on-the-mattress.png](all-the-bufo/bufo-is-better-known-for-the-things-he-does-on-the-mattress.png) |
+| bufo-is-doing-doordash-deliveries-in-the-evenings-because-he-lost-the-family-savings-on-memecoins.png | ![bufo-is-doing-doordash-deliveries-in-the-evenings-because-he-lost-the-family-savings-on-memecoins.png](all-the-bufo/bufo-is-doing-doordash-deliveries-in-the-evenings-because-he-lost-the-family-savings-on-memecoins.png) |
 | bufo-is-exhausted-rooting-for-the-antihero.png | ![bufo-is-exhausted-rooting-for-the-antihero.png](all-the-bufo/bufo-is-exhausted-rooting-for-the-antihero.png) |
+| bufo-is-fixing-it-dont-you-worry.png | ![bufo-is-fixing-it-dont-you-worry.png](all-the-bufo/bufo-is-fixing-it-dont-you-worry.png) |
 | bufo-is-flying-and-is-the-plane.png | ![bufo-is-flying-and-is-the-plane.png](all-the-bufo/bufo-is-flying-and-is-the-plane.png) |
 | bufo-is-getting-abducted.png | ![bufo-is-getting-abducted.png](all-the-bufo/bufo-is-getting-abducted.png) |
 | bufo-is-getting-paged-now.png | ![bufo-is-getting-paged-now.png](all-the-bufo/bufo-is-getting-paged-now.png) |
@@ -591,11 +609,13 @@
 | bufo-is-jealous-its-your-birthday.png | ![bufo-is-jealous-its-your-birthday.png](all-the-bufo/bufo-is-jealous-its-your-birthday.png) |
 | bufo-is-jean-baptise-emanuel-zorg.png | ![bufo-is-jean-baptise-emanuel-zorg.png](all-the-bufo/bufo-is-jean-baptise-emanuel-zorg.png) |
 | bufo-is-keeping-his-eye-on-you.gif | ![bufo-is-keeping-his-eye-on-you.gif](all-the-bufo/bufo-is-keeping-his-eye-on-you.gif) |
+| bufo-is-living-the-life-of-a-showgirl.png | ![bufo-is-living-the-life-of-a-showgirl.png](all-the-bufo/bufo-is-living-the-life-of-a-showgirl.png) |
 | bufo-is-lonely.png | ![bufo-is-lonely.png](all-the-bufo/bufo-is-lonely.png) |
 | bufo-is-lost-in-the-void.png | ![bufo-is-lost-in-the-void.png](all-the-bufo/bufo-is-lost-in-the-void.png) |
 | bufo-is-lost.png | ![bufo-is-lost.png](all-the-bufo/bufo-is-lost.png) |
 | bufo-is-omniscient.png | ![bufo-is-omniscient.png](all-the-bufo/bufo-is-omniscient.png) |
 | bufo-is-on-a-sled.png | ![bufo-is-on-a-sled.png](all-the-bufo/bufo-is-on-a-sled.png) |
+| bufo-is-only-allowed-to-eat-foods-that-dont-require-chewing.png | ![bufo-is-only-allowed-to-eat-foods-that-dont-require-chewing.png](all-the-bufo/bufo-is-only-allowed-to-eat-foods-that-dont-require-chewing.png) |
 | bufo-is-panicking.gif | ![bufo-is-panicking.gif](all-the-bufo/bufo-is-panicking.gif) |
 | bufo-is-petting-your-cat.png | ![bufo-is-petting-your-cat.png](all-the-bufo/bufo-is-petting-your-cat.png) |
 | bufo-is-petting-your-dog.png | ![bufo-is-petting-your-dog.png](all-the-bufo/bufo-is-petting-your-dog.png) |
@@ -610,11 +630,14 @@
 | bufo-is-romantic.png | ![bufo-is-romantic.png](all-the-bufo/bufo-is-romantic.png) |
 | bufo-is-sad-no-one-complimented-their-agent-47-cosplay.png | ![bufo-is-sad-no-one-complimented-their-agent-47-cosplay.png](all-the-bufo/bufo-is-sad-no-one-complimented-their-agent-47-cosplay.png) |
 | bufo-is-safe-behind-bars.gif | ![bufo-is-safe-behind-bars.gif](all-the-bufo/bufo-is-safe-behind-bars.gif) |
+| bufo-is-sharpay.png | ![bufo-is-sharpay.png](all-the-bufo/bufo-is-sharpay.png) |
 | bufo-is-so-happy-youre-here.png | ![bufo-is-so-happy-youre-here.png](all-the-bufo/bufo-is-so-happy-youre-here.png) |
+| bufo-is-struggling-to-stay-awake-after-ordering-the-beef-wellington-at-lunch.png | ![bufo-is-struggling-to-stay-awake-after-ordering-the-beef-wellington-at-lunch.png](all-the-bufo/bufo-is-struggling-to-stay-awake-after-ordering-the-beef-wellington-at-lunch.png) |
 | bufo-is-the-perfect-human-form.png | ![bufo-is-the-perfect-human-form.png](all-the-bufo/bufo-is-the-perfect-human-form.png) |
 | bufo-is-unconcerned.png | ![bufo-is-unconcerned.png](all-the-bufo/bufo-is-unconcerned.png) |
 | bufo-is-up-to-something.png | ![bufo-is-up-to-something.png](all-the-bufo/bufo-is-up-to-something.png) |
 | bufo-is-very-upset-now.png | ![bufo-is-very-upset-now.png](all-the-bufo/bufo-is-very-upset-now.png) |
+| bufo-is-vindicated-that-they-should-have-added-pitching-at-the-deadline-but-it-is-not-helping.png | ![bufo-is-vindicated-that-they-should-have-added-pitching-at-the-deadline-but-it-is-not-helping.png](all-the-bufo/bufo-is-vindicated-that-they-should-have-added-pitching-at-the-deadline-but-it-is-not-helping.png) |
 | bufo-is-watching-you.png | ![bufo-is-watching-you.png](all-the-bufo/bufo-is-watching-you.png) |
 | bufo-is-working-through-the-tears.png | ![bufo-is-working-through-the-tears.png](all-the-bufo/bufo-is-working-through-the-tears.png) |
 | bufo-is-working-too-much.png | ![bufo-is-working-too-much.png](all-the-bufo/bufo-is-working-too-much.png) |
@@ -704,12 +727,15 @@
 | bufo-looks-for-an-issue.png | ![bufo-looks-for-an-issue.png](all-the-bufo/bufo-looks-for-an-issue.png) |
 | bufo-looks-like-hes-listening-but-hes-not.png | ![bufo-looks-like-hes-listening-but-hes-not.png](all-the-bufo/bufo-looks-like-hes-listening-but-hes-not.png) |
 | bufo-looks-out-of-the-window.png | ![bufo-looks-out-of-the-window.png](all-the-bufo/bufo-looks-out-of-the-window.png) |
+| bufo-loves-bake-sale-brownies-so-much-that-it-got-him-to-vote-at-the-elementary-school.png | ![bufo-loves-bake-sale-brownies-so-much-that-it-got-him-to-vote-at-the-elementary-school.png](all-the-bufo/bufo-loves-bake-sale-brownies-so-much-that-it-got-him-to-vote-at-the-elementary-school.png) |
 | bufo-loves-blobs.png | ![bufo-loves-blobs.png](all-the-bufo/bufo-loves-blobs.png) |
 | bufo-loves-disco.png | ![bufo-loves-disco.png](all-the-bufo/bufo-loves-disco.png) |
 | bufo-loves-doges.gif | ![bufo-loves-doges.gif](all-the-bufo/bufo-loves-doges.gif) |
 | bufo-loves-pho.png | ![bufo-loves-pho.png](all-the-bufo/bufo-loves-pho.png) |
+| bufo-loves-potbelly-sandwich-company.png | ![bufo-loves-potbelly-sandwich-company.png](all-the-bufo/bufo-loves-potbelly-sandwich-company.png) |
 | bufo-loves-rice-and-beans.png | ![bufo-loves-rice-and-beans.png](all-the-bufo/bufo-loves-rice-and-beans.png) |
 | bufo-loves-ruby.png | ![bufo-loves-ruby.png](all-the-bufo/bufo-loves-ruby.png) |
+| bufo-loves-the-lightning.png | ![bufo-loves-the-lightning.png](all-the-bufo/bufo-loves-the-lightning.png) |
 | bufo-loves-this-song.png | ![bufo-loves-this-song.png](all-the-bufo/bufo-loves-this-song.png) |
 | bufo-luigi.png | ![bufo-luigi.png](all-the-bufo/bufo-luigi.png) |
 | bufo-lunch.png | ![bufo-lunch.png](all-the-bufo/bufo-lunch.png) |
@@ -724,6 +750,7 @@
 | bufo-makes-it-rain.png | ![bufo-makes-it-rain.png](all-the-bufo/bufo-makes-it-rain.png) |
 | bufo-makes-the-dream-work.png | ![bufo-makes-the-dream-work.png](all-the-bufo/bufo-makes-the-dream-work.png) |
 | bufo-mama-mia-thatsa-one-spicy-a-meatball.png | ![bufo-mama-mia-thatsa-one-spicy-a-meatball.png](all-the-bufo/bufo-mama-mia-thatsa-one-spicy-a-meatball.png) |
+| bufo-marches-with-penguins.png | ![bufo-marches-with-penguins.png](all-the-bufo/bufo-marches-with-penguins.png) |
 | bufo-marine.png | ![bufo-marine.png](all-the-bufo/bufo-marine.png) |
 | bufo-mario.png | ![bufo-mario.png](all-the-bufo/bufo-mario.png) |
 | bufo-mask.png | ![bufo-mask.png](all-the-bufo/bufo-mask.png) |
@@ -756,6 +783,7 @@
 | bufo-nah.png | ![bufo-nah.png](all-the-bufo/bufo-nah.png) |
 | bufo-naked.png | ![bufo-naked.png](all-the-bufo/bufo-naked.png) |
 | bufo-naptime.png | ![bufo-naptime.png](all-the-bufo/bufo-naptime.png) |
+| bufo-needs-2fa-but-lost-his-phone.png | ![bufo-needs-2fa-but-lost-his-phone.png](all-the-bufo/bufo-needs-2fa-but-lost-his-phone.png) |
 | bufo-needs-some-hot-tea-to-process-this-news.png | ![bufo-needs-some-hot-tea-to-process-this-news.png](all-the-bufo/bufo-needs-some-hot-tea-to-process-this-news.png) |
 | bufo-needs-to-vent.png | ![bufo-needs-to-vent.png](all-the-bufo/bufo-needs-to-vent.png) |
 | bufo-nefarious.png | ![bufo-nefarious.png](all-the-bufo/bufo-nefarious.png) |
@@ -917,11 +945,15 @@
 | bufo-offers-oatmilk.png | ![bufo-offers-oatmilk.png](all-the-bufo/bufo-offers-oatmilk.png) |
 | bufo-offers-openai.png | ![bufo-offers-openai.png](all-the-bufo/bufo-offers-openai.png) |
 | bufo-offers-pancakes.png | ![bufo-offers-pancakes.png](all-the-bufo/bufo-offers-pancakes.png) |
+| bufo-offers-pdl-logo.png | ![bufo-offers-pdl-logo.png](all-the-bufo/bufo-offers-pdl-logo.png) |
+| bufo-offers-pdl-turkey.png | ![bufo-offers-pdl-turkey.png](all-the-bufo/bufo-offers-pdl-turkey.png) |
 | bufo-offers-peanuts.png | ![bufo-offers-peanuts.png](all-the-bufo/bufo-offers-peanuts.png) |
 | bufo-offers-pineapple.png | ![bufo-offers-pineapple.png](all-the-bufo/bufo-offers-pineapple.png) |
 | bufo-offers-power.png | ![bufo-offers-power.png](all-the-bufo/bufo-offers-power.png) |
 | bufo-offers-prescription-strength-painkillers.png | ![bufo-offers-prescription-strength-painkillers.png](all-the-bufo/bufo-offers-prescription-strength-painkillers.png) |
 | bufo-offers-python.png | ![bufo-offers-python.png](all-the-bufo/bufo-offers-python.png) |
+| bufo-offers-ramp.png | ![bufo-offers-ramp.png](all-the-bufo/bufo-offers-ramp.png) |
+| bufo-offers-s3-bucket.png | ![bufo-offers-s3-bucket.png](all-the-bufo/bufo-offers-s3-bucket.png) |
 | bufo-offers-securifriend.png | ![bufo-offers-securifriend.png](all-the-bufo/bufo-offers-securifriend.png) |
 | bufo-offers-slack.png | ![bufo-offers-slack.png](all-the-bufo/bufo-offers-slack.png) |
 | bufo-offers-solar-eclipse.png | ![bufo-offers-solar-eclipse.png](all-the-bufo/bufo-offers-solar-eclipse.png) |
@@ -937,6 +969,7 @@
 | bufo-offers-thundercats.png | ![bufo-offers-thundercats.png](all-the-bufo/bufo-offers-thundercats.png) |
 | bufo-offers-tim-tams.png | ![bufo-offers-tim-tams.png](all-the-bufo/bufo-offers-tim-tams.png) |
 | bufo-offers-tree.png | ![bufo-offers-tree.png](all-the-bufo/bufo-offers-tree.png) |
+| bufo-offers-turkey.png | ![bufo-offers-turkey.png](all-the-bufo/bufo-offers-turkey.png) |
 | bufo-offers-turkish-delights.png | ![bufo-offers-turkish-delights.png](all-the-bufo/bufo-offers-turkish-delights.png) |
 | bufo-offers-ube.png | ![bufo-offers-ube.png](all-the-bufo/bufo-offers-ube.png) |
 | bufo-offers-watermelon.png | ![bufo-offers-watermelon.png](all-the-bufo/bufo-offers-watermelon.png) |
@@ -957,6 +990,7 @@
 | bufo-offers-you-the-moon.png | ![bufo-offers-you-the-moon.png](all-the-bufo/bufo-offers-you-the-moon.png) |
 | bufo-offers-you-the-world.png | ![bufo-offers-you-the-world.png](all-the-bufo/bufo-offers-you-the-world.png) |
 | bufo-offers-yubikey.png | ![bufo-offers-yubikey.png](all-the-bufo/bufo-offers-yubikey.png) |
+| bufo-offers-zendesk.png | ![bufo-offers-zendesk.png](all-the-bufo/bufo-offers-zendesk.png) |
 | bufo-office.png | ![bufo-office.png](all-the-bufo/bufo-office.png) |
 | bufo-oh-hai.png | ![bufo-oh-hai.png](all-the-bufo/bufo-oh-hai.png) |
 | bufo-oh-no.png | ![bufo-oh-no.png](all-the-bufo/bufo-oh-no.png) |
@@ -992,6 +1026,7 @@
 | bufo-peek-wall.png | ![bufo-peek-wall.png](all-the-bufo/bufo-peek-wall.png) |
 | bufo-peek.png | ![bufo-peek.png](all-the-bufo/bufo-peek.png) |
 | bufo-peeking.gif | ![bufo-peeking.gif](all-the-bufo/bufo-peeking.gif) |
+| bufo-penguin.png | ![bufo-penguin.png](all-the-bufo/bufo-penguin.png) |
 | bufo-pensivity-turned-discomfort-upon-realization-of-reality.gif | ![bufo-pensivity-turned-discomfort-upon-realization-of-reality.gif](all-the-bufo/bufo-pensivity-turned-discomfort-upon-realization-of-reality.gif) |
 | bufo-phew.png | ![bufo-phew.png](all-the-bufo/bufo-phew.png) |
 | bufo-phonecall.png | ![bufo-phonecall.png](all-the-bufo/bufo-phonecall.png) |
@@ -1066,6 +1101,7 @@
 | bufo-reads-and-analyzes-doc-intensifies.gif | ![bufo-reads-and-analyzes-doc-intensifies.gif](all-the-bufo/bufo-reads-and-analyzes-doc-intensifies.gif) |
 | bufo-reads-and-analyzes-doc.png | ![bufo-reads-and-analyzes-doc.png](all-the-bufo/bufo-reads-and-analyzes-doc.png) |
 | bufo-red-flags.gif | ![bufo-red-flags.gif](all-the-bufo/bufo-red-flags.gif) |
+| bufo-red-sox.png | ![bufo-red-sox.png](all-the-bufo/bufo-red-sox.png) |
 | bufo-redacted.png | ![bufo-redacted.png](all-the-bufo/bufo-redacted.png) |
 | bufo-regret.png | ![bufo-regret.png](all-the-bufo/bufo-regret.png) |
 | bufo-remains-perturbed-from-the-void.png | ![bufo-remains-perturbed-from-the-void.png](all-the-bufo/bufo-remains-perturbed-from-the-void.png) |
@@ -1214,6 +1250,7 @@
 | bufo-strains-his-neck.png | ![bufo-strains-his-neck.png](all-the-bufo/bufo-strains-his-neck.png) |
 | bufo-strange.png | ![bufo-strange.png](all-the-bufo/bufo-strange.png) |
 | bufo-strawberry.png | ![bufo-strawberry.png](all-the-bufo/bufo-strawberry.png) |
+| bufo-stress-sweat.gif | ![bufo-stress-sweat.gif](all-the-bufo/bufo-stress-sweat.gif) |
 | bufo-strikes-a-deal.png | ![bufo-strikes-a-deal.png](all-the-bufo/bufo-strikes-a-deal.png) |
 | bufo-strikes-the-match-he's-ready-for-inferno.png | ![bufo-strikes-the-match-he's-ready-for-inferno.png](all-the-bufo/bufo-strikes-the-match-he's-ready-for-inferno.png) |
 | bufo-stripe.png | ![bufo-stripe.png](all-the-bufo/bufo-stripe.png) |
@@ -1323,6 +1360,7 @@
 | bufo-tired-yes.gif | ![bufo-tired-yes.gif](all-the-bufo/bufo-tired-yes.gif) |
 | bufo-tired.png | ![bufo-tired.png](all-the-bufo/bufo-tired.png) |
 | bufo-toad.png | ![bufo-toad.png](all-the-bufo/bufo-toad.png) |
+| bufo-toast.png | ![bufo-toast.png](all-the-bufo/bufo-toast.png) |
 | bufo-tofu.png | ![bufo-tofu.png](all-the-bufo/bufo-tofu.png) |
 | bufo-toilet-rocket.gif | ![bufo-toilet-rocket.gif](all-the-bufo/bufo-toilet-rocket.gif) |
 | bufo-tomato.png | ![bufo-tomato.png](all-the-bufo/bufo-tomato.png) |
@@ -1344,6 +1382,7 @@
 | bufo-tries-to-fight-you-but-his-arms-are-too-short-so-count-yourself-lucky.gif | ![bufo-tries-to-fight-you-but-his-arms-are-too-short-so-count-yourself-lucky.gif](all-the-bufo/bufo-tries-to-fight-you-but-his-arms-are-too-short-so-count-yourself-lucky.gif) |
 | bufo-tries-to-hug-you-back-but-his-arms-are-too-short.png | ![bufo-tries-to-hug-you-back-but-his-arms-are-too-short.png](all-the-bufo/bufo-tries-to-hug-you-back-but-his-arms-are-too-short.png) |
 | bufo-tries-to-hug-you-but-his-arms-are-too-short.png | ![bufo-tries-to-hug-you-but-his-arms-are-too-short.png](all-the-bufo/bufo-tries-to-hug-you-but-his-arms-are-too-short.png) |
+| bufo-tries-to-play-it-cool-while-smuggling-a-chipotle-burrito-into-the-movie-theater.png | ![bufo-tries-to-play-it-cool-while-smuggling-a-chipotle-burrito-into-the-movie-theater.png](all-the-bufo/bufo-tries-to-play-it-cool-while-smuggling-a-chipotle-burrito-into-the-movie-theater.png) |
 | bufo-triple-vaccinated.png | ![bufo-triple-vaccinated.png](all-the-bufo/bufo-triple-vaccinated.png) |
 | bufo-tripping.gif | ![bufo-tripping.gif](all-the-bufo/bufo-tripping.gif) |
 | bufo-trying-to-relax-while-procrastinating-but-its-not-working.png | ![bufo-trying-to-relax-while-procrastinating-but-its-not-working.png](all-the-bufo/bufo-trying-to-relax-while-procrastinating-but-its-not-working.png) |
@@ -1362,13 +1401,16 @@
 | bufo-uno.png | ![bufo-uno.png](all-the-bufo/bufo-uno.png) |
 | bufo-upvote.png | ![bufo-upvote.png](all-the-bufo/bufo-upvote.png) |
 | bufo-uses-100-percent-of-his-brain.png | ![bufo-uses-100-percent-of-his-brain.png](all-the-bufo/bufo-uses-100-percent-of-his-brain.png) |
+| bufo-uses-his-birthday-wish-to-try-to-bring-rainforest-cafe-back.png | ![bufo-uses-his-birthday-wish-to-try-to-bring-rainforest-cafe-back.png](all-the-bufo/bufo-uses-his-birthday-wish-to-try-to-bring-rainforest-cafe-back.png) |
 | bufo-uwu.png | ![bufo-uwu.png](all-the-bufo/bufo-uwu.png) |
 | bufo-vaccinated.png | ![bufo-vaccinated.png](all-the-bufo/bufo-vaccinated.png) |
 | bufo-vaccinates-you.png | ![bufo-vaccinates-you.png](all-the-bufo/bufo-vaccinates-you.png) |
 | bufo-vampire.png | ![bufo-vampire.png](all-the-bufo/bufo-vampire.png) |
 | bufo-venom.png | ![bufo-venom.png](all-the-bufo/bufo-venom.png) |
 | bufo-ventilator.png | ![bufo-ventilator.png](all-the-bufo/bufo-ventilator.png) |
+| bufo-very-angry-intesifies.gif | ![bufo-very-angry-intesifies.gif](all-the-bufo/bufo-very-angry-intesifies.gif) |
 | bufo-very-angry.gif | ![bufo-very-angry.gif](all-the-bufo/bufo-very-angry.gif) |
+| bufo-very-angry.png | ![bufo-very-angry.png](all-the-bufo/bufo-very-angry.png) |
 | bufo-vibe-dance.gif | ![bufo-vibe-dance.gif](all-the-bufo/bufo-vibe-dance.gif) |
 | bufo-vibe.gif | ![bufo-vibe.gif](all-the-bufo/bufo-vibe.gif) |
 | bufo-vomit.png | ![bufo-vomit.png](all-the-bufo/bufo-vomit.png) |
@@ -1434,6 +1476,7 @@
 | bufo-wizard-magic-charge.gif | ![bufo-wizard-magic-charge.gif](all-the-bufo/bufo-wizard-magic-charge.gif) |
 | bufo-wizard.gif | ![bufo-wizard.gif](all-the-bufo/bufo-wizard.gif) |
 | bufo-wonders-if-deliciousness-of-this-cheese-is-worth-the-pain-his-lactose-intolerance-will-cause.png | ![bufo-wonders-if-deliciousness-of-this-cheese-is-worth-the-pain-his-lactose-intolerance-will-cause.png](all-the-bufo/bufo-wonders-if-deliciousness-of-this-cheese-is-worth-the-pain-his-lactose-intolerance-will-cause.png) |
+| bufo-woop.png | ![bufo-woop.png](all-the-bufo/bufo-woop.png) |
 | bufo-workin-up-a-sweat-after-eating-a-wendys-double-loaded-double-baked-baked-potato-during-summer.png | ![bufo-workin-up-a-sweat-after-eating-a-wendys-double-loaded-double-baked-baked-potato-during-summer.png](all-the-bufo/bufo-workin-up-a-sweat-after-eating-a-wendys-double-loaded-double-baked-baked-potato-during-summer.png) |
 | bufo-worldstar.png | ![bufo-worldstar.png](all-the-bufo/bufo-worldstar.png) |
 | bufo-worried.png | ![bufo-worried.png](all-the-bufo/bufo-worried.png) |
@@ -1444,6 +1487,8 @@
 | bufo-wtf.gif | ![bufo-wtf.gif](all-the-bufo/bufo-wtf.gif) |
 | bufo-wut.png | ![bufo-wut.png](all-the-bufo/bufo-wut.png) |
 | bufo-yah.png | ![bufo-yah.png](all-the-bufo/bufo-yah.png) |
+| bufo-yankees-fan-is-waiting-for-the-right-time-to-ask-how-youre-doing.png | ![bufo-yankees-fan-is-waiting-for-the-right-time-to-ask-how-youre-doing.png](all-the-bufo/bufo-yankees-fan-is-waiting-for-the-right-time-to-ask-how-youre-doing.png) |
+| bufo-yankees.png | ![bufo-yankees.png](all-the-bufo/bufo-yankees.png) |
 | bufo-yay-awkward-eyes.gif | ![bufo-yay-awkward-eyes.gif](all-the-bufo/bufo-yay-awkward-eyes.gif) |
 | bufo-yay-confetti.gif | ![bufo-yay-confetti.gif](all-the-bufo/bufo-yay-confetti.gif) |
 | bufo-yay-judge.gif | ![bufo-yay-judge.gif](all-the-bufo/bufo-yay-judge.gif) |
@@ -1460,6 +1505,7 @@
 | bufo-zoom.gif | ![bufo-zoom.gif](all-the-bufo/bufo-zoom.gif) |
 | bufo.png | ![bufo.png](all-the-bufo/bufo.png) |
 | bufo_wants_his_money.png | ![bufo_wants_his_money.png](all-the-bufo/bufo_wants_his_money.png) |
+| bufoberries.png | ![bufoberries.png](all-the-bufo/bufoberries.png) |
 | bufobot.png | ![bufobot.png](all-the-bufo/bufobot.png) |
 | bufochu.png | ![bufochu.png](all-the-bufo/bufochu.png) |
 | bufocopter.png | ![bufocopter.png](all-the-bufo/bufocopter.png) |
