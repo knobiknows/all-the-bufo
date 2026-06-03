@@ -24,6 +24,7 @@
 | bigbufo_3_2.png | ![bigbufo_3_2.png](all-the-bufo/bigbufo_3_2.png) |
 | bigbufo_3_3.png | ![bigbufo_3_3.png](all-the-bufo/bigbufo_3_3.png) |
 | blockheads-bufo.png | ![blockheads-bufo.png](all-the-bufo/blockheads-bufo.png) |
+| boofo.png | ![boofo.png](all-the-bufo/boofo.png) |
 | breaking-bufo.png | ![breaking-bufo.png](all-the-bufo/breaking-bufo.png) |
 | bronze-bufo.png | ![bronze-bufo.png](all-the-bufo/bronze-bufo.png) |
 | buff-bufo.png | ![buff-bufo.png](all-the-bufo/buff-bufo.png) |
@@ -557,6 +558,7 @@
 | bufo-hmm.png | ![bufo-hmm.png](all-the-bufo/bufo-hmm.png) |
 | bufo-holding-back-tears.png | ![bufo-holding-back-tears.png](all-the-bufo/bufo-holding-back-tears.png) |
 | bufo-holding-space-for-defying-gravity.png | ![bufo-holding-space-for-defying-gravity.png](all-the-bufo/bufo-holding-space-for-defying-gravity.png) |
+| bufo-holds-claude-code.png | ![bufo-holds-claude-code.png](all-the-bufo/bufo-holds-claude-code.png) |
 | bufo-holds-pumpkin.png | ![bufo-holds-pumpkin.png](all-the-bufo/bufo-holds-pumpkin.png) |
 | bufo-homologates.png | ![bufo-homologates.png](all-the-bufo/bufo-homologates.png) |
 | bufo-hop-in-we're-going-to-flavortown.png | ![bufo-hop-in-we're-going-to-flavortown.png](all-the-bufo/bufo-hop-in-we're-going-to-flavortown.png) |
@@ -785,6 +787,7 @@
 | bufo-mitosis.gif | ![bufo-mitosis.gif](all-the-bufo/bufo-mitosis.gif) |
 | bufo-mittens.png | ![bufo-mittens.png](all-the-bufo/bufo-mittens.png) |
 | bufo-modern-art.png | ![bufo-modern-art.png](all-the-bufo/bufo-modern-art.png) |
+| bufo-monitoring-the-situation.png | ![bufo-monitoring-the-situation.png](all-the-bufo/bufo-monitoring-the-situation.png) |
 | bufo-monocle.png | ![bufo-monocle.png](all-the-bufo/bufo-monocle.png) |
 | bufo-monstera.png | ![bufo-monstera.png](all-the-bufo/bufo-monstera.png) |
 | bufo-morning-starbucks.png | ![bufo-morning-starbucks.png](all-the-bufo/bufo-morning-starbucks.png) |
@@ -923,6 +926,7 @@
 | bufo-offers-chart-with-upwards-trend.png | ![bufo-offers-chart-with-upwards-trend.png](all-the-bufo/bufo-offers-chart-with-upwards-trend.png) |
 | bufo-offers-chatgpt.png | ![bufo-offers-chatgpt.png](all-the-bufo/bufo-offers-chatgpt.png) |
 | bufo-offers-chrome.png | ![bufo-offers-chrome.png](all-the-bufo/bufo-offers-chrome.png) |
+| bufo-offers-claude-code.png | ![bufo-offers-claude-code.png](all-the-bufo/bufo-offers-claude-code.png) |
 | bufo-offers-coffee.png | ![bufo-offers-coffee.png](all-the-bufo/bufo-offers-coffee.png) |
 | bufo-offers-copilot.png | ![bufo-offers-copilot.png](all-the-bufo/bufo-offers-copilot.png) |
 | bufo-offers-corn.png | ![bufo-offers-corn.png](all-the-bufo/bufo-offers-corn.png) |
@@ -1102,6 +1106,7 @@
 | bufo-prays-for-this-to-be-over-already-intensifies.gif | ![bufo-prays-for-this-to-be-over-already-intensifies.gif](all-the-bufo/bufo-prays-for-this-to-be-over-already-intensifies.gif) |
 | bufo-prays-for-this-to-be-over-already.png | ![bufo-prays-for-this-to-be-over-already.png](all-the-bufo/bufo-prays-for-this-to-be-over-already.png) |
 | bufo-prays-to-azure.png | ![bufo-prays-to-azure.png](all-the-bufo/bufo-prays-to-azure.png) |
+| bufo-prays-to-claude-code.png | ![bufo-prays-to-claude-code.png](all-the-bufo/bufo-prays-to-claude-code.png) |
 | bufo-prays-to-nvidia.png | ![bufo-prays-to-nvidia.png](all-the-bufo/bufo-prays-to-nvidia.png) |
 | bufo-prays-to-pagerduty.png | ![bufo-prays-to-pagerduty.png](all-the-bufo/bufo-prays-to-pagerduty.png) |
 | bufo-preach.png | ![bufo-preach.png](all-the-bufo/bufo-preach.png) |
@@ -1122,6 +1127,7 @@
 | bufo-rainbow.gif | ![bufo-rainbow.gif](all-the-bufo/bufo-rainbow.gif) |
 | bufo-raised-hand.png | ![bufo-raised-hand.png](all-the-bufo/bufo-raised-hand.png) |
 | bufo-ramen.gif | ![bufo-ramen.gif](all-the-bufo/bufo-ramen.gif) |
+| bufo-ran-out-of-tokens.png | ![bufo-ran-out-of-tokens.png](all-the-bufo/bufo-ran-out-of-tokens.png) |
 | bufo-reading.png | ![bufo-reading.png](all-the-bufo/bufo-reading.png) |
 | bufo-reads-and-analyzes-doc-intensifies.gif | ![bufo-reads-and-analyzes-doc-intensifies.gif](all-the-bufo/bufo-reads-and-analyzes-doc-intensifies.gif) |
 | bufo-reads-and-analyzes-doc.png | ![bufo-reads-and-analyzes-doc.png](all-the-bufo/bufo-reads-and-analyzes-doc.png) |
@@ -1566,6 +1572,7 @@
 | chonky-bufo-wants-to-be-held.png | ![chonky-bufo-wants-to-be-held.png](all-the-bufo/chonky-bufo-wants-to-be-held.png) |
 | christmas-bufo-on-a-goose.gif | ![christmas-bufo-on-a-goose.gif](all-the-bufo/christmas-bufo-on-a-goose.gif) |
 | circle-of-bufo.png | ![circle-of-bufo.png](all-the-bufo/circle-of-bufo.png) |
+| claude-take-the-wheel.png | ![claude-take-the-wheel.png](all-the-bufo/claude-take-the-wheel.png) |
 | confused-math-bufo.png | ![confused-math-bufo.png](all-the-bufo/confused-math-bufo.png) |
 | constipated-bufo-is-trying-his-hardest.gif | ![constipated-bufo-is-trying-his-hardest.gif](all-the-bufo/constipated-bufo-is-trying-his-hardest.gif) |
 | copper-bufo.png | ![copper-bufo.png](all-the-bufo/copper-bufo.png) |
@@ -1631,6 +1638,7 @@
 | nobufo.png | ![nobufo.png](all-the-bufo/nobufo.png) |
 | not-bufo.png | ![not-bufo.png](all-the-bufo/not-bufo.png) |
 | nothing-inauthentic-bout-this-bufo-yeah-hes-the-real-thing-baby.png | ![nothing-inauthentic-bout-this-bufo-yeah-hes-the-real-thing-baby.png](all-the-bufo/nothing-inauthentic-bout-this-bufo-yeah-hes-the-real-thing-baby.png) |
+| old-bufo-yells-at-claude-code.png | ![old-bufo-yells-at-claude-code.png](all-the-bufo/old-bufo-yells-at-claude-code.png) |
 | old-bufo-yells-at-cloud.jpg | ![old-bufo-yells-at-cloud.jpg](all-the-bufo/old-bufo-yells-at-cloud.jpg) |
 | old-bufo-yells-at-hubble.png | ![old-bufo-yells-at-hubble.png](all-the-bufo/old-bufo-yells-at-hubble.png) |
 | old-man-yells-at-bufo.png | ![old-man-yells-at-bufo.png](all-the-bufo/old-man-yells-at-bufo.png) |
