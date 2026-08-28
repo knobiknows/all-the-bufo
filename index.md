@@ -325,6 +325,7 @@
 | bufo-doesnt-understand-how-this-meeting-isnt-an-email.jpg | ![bufo-doesnt-understand-how-this-meeting-isnt-an-email.jpg](all-the-bufo/bufo-doesnt-understand-how-this-meeting-isnt-an-email.jpg) |
 | bufo-doesnt-wanna-get-out-of-the-bath-yet.png | ![bufo-doesnt-wanna-get-out-of-the-bath-yet.png](all-the-bufo/bufo-doesnt-wanna-get-out-of-the-bath-yet.png) |
 | bufo-dog.png | ![bufo-dog.png](all-the-bufo/bufo-dog.png) |
+| bufo-dolly.png | ![bufo-dolly.png](all-the-bufo/bufo-dolly.png) |
 | bufo-domo.png | ![bufo-domo.png](all-the-bufo/bufo-domo.png) |
 | bufo-done-check.gif | ![bufo-done-check.gif](all-the-bufo/bufo-done-check.gif) |
 | bufo-dont-even-see-the-code-anymore.gif | ![bufo-dont-even-see-the-code-anymore.gif](all-the-bufo/bufo-dont-even-see-the-code-anymore.gif) |
@@ -343,6 +344,7 @@
 | bufo-drifts-through-the-void.png | ![bufo-drifts-through-the-void.png](all-the-bufo/bufo-drifts-through-the-void.png) |
 | bufo-drinking-baja-blast.png | ![bufo-drinking-baja-blast.png](all-the-bufo/bufo-drinking-baja-blast.png) |
 | bufo-drinking-boba.png | ![bufo-drinking-boba.png](all-the-bufo/bufo-drinking-boba.png) |
+| bufo-drinking-claude-code.png | ![bufo-drinking-claude-code.png](all-the-bufo/bufo-drinking-claude-code.png) |
 | bufo-drinking-coffee.gif | ![bufo-drinking-coffee.gif](all-the-bufo/bufo-drinking-coffee.gif) |
 | bufo-drinking-coke.png | ![bufo-drinking-coke.png](all-the-bufo/bufo-drinking-coke.png) |
 | bufo-drinking-pepsi.png | ![bufo-drinking-pepsi.png](all-the-bufo/bufo-drinking-pepsi.png) |
@@ -426,6 +428,7 @@
 | bufo-found-some-more-leeks.png | ![bufo-found-some-more-leeks.png](all-the-bufo/bufo-found-some-more-leeks.png) |
 | bufo-found-the-leeks.png | ![bufo-found-the-leeks.png](all-the-bufo/bufo-found-the-leeks.png) |
 | bufo-found-yet-another-juicebox.png | ![bufo-found-yet-another-juicebox.png](all-the-bufo/bufo-found-yet-another-juicebox.png) |
+| bufo-frank-n-furter.png | ![bufo-frank-n-furter.png](all-the-bufo/bufo-frank-n-furter.png) |
 | bufo-french.png | ![bufo-french.png](all-the-bufo/bufo-french.png) |
 | bufo-friends.png | ![bufo-friends.png](all-the-bufo/bufo-friends.png) |
 | bufo-frustrated-with-flower.png | ![bufo-frustrated-with-flower.png](all-the-bufo/bufo-frustrated-with-flower.png) |
@@ -584,6 +587,7 @@
 | bufo-inception.png | ![bufo-inception.png](all-the-bufo/bufo-inception.png) |
 | bufo-increases-his-dimensionality-while-trapped-in-the-void.png | ![bufo-increases-his-dimensionality-while-trapped-in-the-void.png](all-the-bufo/bufo-increases-his-dimensionality-while-trapped-in-the-void.png) |
 | bufo-indulges-in-a-hot-dog-omakase.png | ![bufo-indulges-in-a-hot-dog-omakase.png](all-the-bufo/bufo-indulges-in-a-hot-dog-omakase.png) |
+| bufo-injects-claude-code.png | ![bufo-injects-claude-code.png](all-the-bufo/bufo-injects-claude-code.png) |
 | bufo-innocent.gif | ![bufo-innocent.gif](all-the-bufo/bufo-innocent.gif) |
 | bufo-inspecting.png | ![bufo-inspecting.png](all-the-bufo/bufo-inspecting.png) |
 | bufo-inspired.png | ![bufo-inspired.png](all-the-bufo/bufo-inspired.png) |
