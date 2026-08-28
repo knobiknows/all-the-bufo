@@ -1307,6 +1307,7 @@
 | bufo-tada.png | ![bufo-tada.png](all-the-bufo/bufo-tada.png) |
 | bufo-take-my-money.png | ![bufo-take-my-money.png](all-the-bufo/bufo-take-my-money.png) |
 | bufo-takes-a-bath.png | ![bufo-takes-a-bath.png](all-the-bufo/bufo-takes-a-bath.png) |
+| bufo-takes-croissant.png | ![bufo-takes-croissant.png](all-the-bufo/bufo-takes-croissant.png) |
 | bufo-takes-bufo-give.png | ![bufo-takes-bufo-give.png](all-the-bufo/bufo-takes-bufo-give.png) |
 | bufo-takes-five-corndogs-to-the-movies-by-himself-as-his-me-time.png | ![bufo-takes-five-corndogs-to-the-movies-by-himself-as-his-me-time.png](all-the-bufo/bufo-takes-five-corndogs-to-the-movies-by-himself-as-his-me-time.png) |
 | bufo-takes-hotdog.png | ![bufo-takes-hotdog.png](all-the-bufo/bufo-takes-hotdog.png) |
