@@ -1,0 +1,24 @@
+name: check-index
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  check-index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Regenerate the index
+        run: python3 scripts/generate-index.py
+      - name: Fail if index.md is out of date
+        run: |
+          if ! git diff --exit-code index.md; then
+            echo ""
+            echo "index.md is out of date. Run 'python3 scripts/generate-index.py' and commit the result."
+            exit 1
+          fi
