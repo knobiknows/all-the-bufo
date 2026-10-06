@@ -727,7 +727,7 @@
 | bufo-liberty.png | ![bufo-liberty.png](all-the-bufo/bufo-liberty.png) |
 | bufo-librarian.png | ![bufo-librarian.png](all-the-bufo/bufo-librarian.png) |
 | bufo-lick.gif | ![bufo-lick.gif](all-the-bufo/bufo-lick.gif) |
-| bufo-licks-his-hway-out-of-prison.gif | ![bufo-licks-his-hway-out-of-prison.gif](all-the-bufo/bufo-licks-his-hway-out-of-prison.gif) |
+| bufo-licks-his-way-out-of-prison.gif | ![bufo-licks-his-way-out-of-prison.gif](all-the-bufo/bufo-licks-his-way-out-of-prison.gif) |
 | bufo-lies-awake-in-panic.png | ![bufo-lies-awake-in-panic.png](all-the-bufo/bufo-lies-awake-in-panic.png) |
 | bufo-life-saver.png | ![bufo-life-saver.png](all-the-bufo/bufo-life-saver.png) |
 | bufo-likes-that-idea.png | ![bufo-likes-that-idea.png](all-the-bufo/bufo-likes-that-idea.png) |
@@ -1311,8 +1311,8 @@
 | bufo-tada.png | ![bufo-tada.png](all-the-bufo/bufo-tada.png) |
 | bufo-take-my-money.png | ![bufo-take-my-money.png](all-the-bufo/bufo-take-my-money.png) |
 | bufo-takes-a-bath.png | ![bufo-takes-a-bath.png](all-the-bufo/bufo-takes-a-bath.png) |
-| bufo-takes-croissant.png | ![bufo-takes-croissant.png](all-the-bufo/bufo-takes-croissant.png) |
 | bufo-takes-bufo-give.png | ![bufo-takes-bufo-give.png](all-the-bufo/bufo-takes-bufo-give.png) |
+| bufo-takes-croissant.png | ![bufo-takes-croissant.png](all-the-bufo/bufo-takes-croissant.png) |
 | bufo-takes-five-corndogs-to-the-movies-by-himself-as-his-me-time.png | ![bufo-takes-five-corndogs-to-the-movies-by-himself-as-his-me-time.png](all-the-bufo/bufo-takes-five-corndogs-to-the-movies-by-himself-as-his-me-time.png) |
 | bufo-takes-hotdog.png | ![bufo-takes-hotdog.png](all-the-bufo/bufo-takes-hotdog.png) |
 | bufo-takes-slack.png | ![bufo-takes-slack.png](all-the-bufo/bufo-takes-slack.png) |
@@ -1699,6 +1699,7 @@
 | two-bufos-beefin.png | ![two-bufos-beefin.png](all-the-bufo/two-bufos-beefin.png) |
 | up-and-to-the-bufo.png | ![up-and-to-the-bufo.png](all-the-bufo/up-and-to-the-bufo.png) |
 | vacation-bufo-is-vacationing.png | ![vacation-bufo-is-vacationing.png](all-the-bufo/vacation-bufo-is-vacationing.png) |
+| vibecoder-bufo-demands-more-gpu-capacity.gif | ![vibecoder-bufo-demands-more-gpu-capacity.gif](all-the-bufo/vibecoder-bufo-demands-more-gpu-capacity.gif) |
 | vin-bufo.png | ![vin-bufo.png](all-the-bufo/vin-bufo.png) |
 | vintage-bufo.png | ![vintage-bufo.png](all-the-bufo/vintage-bufo.png) |
 | whatever-youre-doing-its-attracting-the-bufos.png | ![whatever-youre-doing-its-attracting-the-bufos.png](all-the-bufo/whatever-youre-doing-its-attracting-the-bufos.png) |
