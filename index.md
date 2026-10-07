@@ -964,6 +964,7 @@
 | bufo-offers-jira.png | ![bufo-offers-jira.png](all-the-bufo/bufo-offers-jira.png) |
 | bufo-offers-ldap.png | ![bufo-offers-ldap.png](all-the-bufo/bufo-offers-ldap.png) |
 | bufo-offers-lego.png | ![bufo-offers-lego.png](all-the-bufo/bufo-offers-lego.png) |
+| bufo-offers-lightbulb.png | ![bufo-offers-lightbulb.png](all-the-bufo/bufo-offers-lightbulb.png) |
 | bufo-offers-model-1857-12-pounder-napoleon-cannon.png | ![bufo-offers-model-1857-12-pounder-napoleon-cannon.png](all-the-bufo/bufo-offers-model-1857-12-pounder-napoleon-cannon.png) |
 | bufo-offers-moneybag.png | ![bufo-offers-moneybag.png](all-the-bufo/bufo-offers-moneybag.png) |
 | bufo-offers-new-jira.png | ![bufo-offers-new-jira.png](all-the-bufo/bufo-offers-new-jira.png) |
