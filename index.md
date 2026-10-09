@@ -1143,6 +1143,7 @@
 | bufo-regret.png | ![bufo-regret.png](all-the-bufo/bufo-regret.png) |
 | bufo-remains-perturbed-from-the-void.png | ![bufo-remains-perturbed-from-the-void.png](all-the-bufo/bufo-remains-perturbed-from-the-void.png) |
 | bufo-remembers-bad-time.png | ![bufo-remembers-bad-time.png](all-the-bufo/bufo-remembers-bad-time.png) |
+| bufo-returns-to-the-cold-embrace-of-centerlink.gif | ![bufo-returns-to-the-cold-embrace-of-centerlink.gif](all-the-bufo/bufo-returns-to-the-cold-embrace-of-centerlink.gif) |
 | bufo-returns-to-the-void.png | ![bufo-returns-to-the-void.png](all-the-bufo/bufo-returns-to-the-void.png) |
 | bufo-retweet.png | ![bufo-retweet.png](all-the-bufo/bufo-retweet.png) |
 | bufo-reverse.png | ![bufo-reverse.png](all-the-bufo/bufo-reverse.png) |
