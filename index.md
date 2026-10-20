@@ -275,6 +275,7 @@
 | bufo-cries-into-his-beer.png | ![bufo-cries-into-his-beer.png](all-the-bufo/bufo-cries-into-his-beer.png) |
 | bufo-crikey.png | ![bufo-crikey.png](all-the-bufo/bufo-crikey.png) |
 | bufo-croptop.png | ![bufo-croptop.png](all-the-bufo/bufo-croptop.png) |
+| bufo-crouton.png | ![bufo-crouton.png](all-the-bufo/bufo-crouton.png) |
 | bufo-crumbs.png | ![bufo-crumbs.png](all-the-bufo/bufo-crumbs.png) |
 | bufo-crustacean.png | ![bufo-crustacean.png](all-the-bufo/bufo-crustacean.png) |
 | bufo-cry-pray.png | ![bufo-cry-pray.png](all-the-bufo/bufo-cry-pray.png) |
