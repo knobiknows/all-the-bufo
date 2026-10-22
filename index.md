@@ -46,6 +46,7 @@
 | bufo-alarma.gif | ![bufo-alarma.gif](all-the-bufo/bufo-alarma.gif) |
 | bufo-all-good.png | ![bufo-all-good.png](all-the-bufo/bufo-all-good.png) |
 | bufo-all-warm-and-fuzzy-inside.png | ![bufo-all-warm-and-fuzzy-inside.png](all-the-bufo/bufo-all-warm-and-fuzzy-inside.png) |
+| bufo-also-likes-to-live-dangerously.png | ![bufo-also-likes-to-live-dangerously.png](all-the-bufo/bufo-also-likes-to-live-dangerously.png) |
 | bufo-am-i.png | ![bufo-am-i.png](all-the-bufo/bufo-am-i.png) |
 | bufo-amaze.gif | ![bufo-amaze.gif](all-the-bufo/bufo-amaze.gif) |
 | bufo-ambiently-existing.png | ![bufo-ambiently-existing.png](all-the-bufo/bufo-ambiently-existing.png) |
