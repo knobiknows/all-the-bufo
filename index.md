@@ -496,6 +496,7 @@
 | bufo-grenade.gif | ![bufo-grenade.gif](all-the-bufo/bufo-grenade.gif) |
 | bufo-grimaces-with-eyebrows.png | ![bufo-grimaces-with-eyebrows.png](all-the-bufo/bufo-grimaces-with-eyebrows.png) |
 | bufo-grin.png | ![bufo-grin.png](all-the-bufo/bufo-grin.png) |
+| bufo-gtfm-gets-the-money.png | ![bufo-gtfm-gets-the-money.png](all-the-bufo/bufo-gtfm-gets-the-money.png) |
 | bufo-guitar.gif | ![bufo-guitar.gif](all-the-bufo/bufo-guitar.gif) |
 | bufo-ha-ha.png | ![bufo-ha-ha.png](all-the-bufo/bufo-ha-ha.png) |
 | bufo-hacker.png | ![bufo-hacker.png](all-the-bufo/bufo-hacker.png) |
