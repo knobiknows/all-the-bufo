@@ -190,6 +190,7 @@
 | bufo-came-into-the-office-just-to-use-the-printer.png | ![bufo-came-into-the-office-just-to-use-the-printer.png](all-the-bufo/bufo-came-into-the-office-just-to-use-the-printer.png) |
 | bufo-can't-believe-heartbreak-feels-good-in-a-place-like-this.png | ![bufo-can't-believe-heartbreak-feels-good-in-a-place-like-this.png](all-the-bufo/bufo-can't-believe-heartbreak-feels-good-in-a-place-like-this.png) |
 | bufo-can't-help-but-wonder-who-watches-the-watchmen.png | ![bufo-can't-help-but-wonder-who-watches-the-watchmen.png](all-the-bufo/bufo-can't-help-but-wonder-who-watches-the-watchmen.png) |
+| bufo-can-see-everything.png | ![bufo-can-see-everything.png](all-the-bufo/bufo-can-see-everything.png) |
 | bufo-canada.png | ![bufo-canada.png](all-the-bufo/bufo-canada.png) |
 | bufo-cant-believe-your-audacity.png | ![bufo-cant-believe-your-audacity.png](all-the-bufo/bufo-cant-believe-your-audacity.png) |
 | bufo-cant-find-a-pull-request.png | ![bufo-cant-find-a-pull-request.png](all-the-bufo/bufo-cant-find-a-pull-request.png) |
@@ -496,6 +497,7 @@
 | bufo-grenade.gif | ![bufo-grenade.gif](all-the-bufo/bufo-grenade.gif) |
 | bufo-grimaces-with-eyebrows.png | ![bufo-grimaces-with-eyebrows.png](all-the-bufo/bufo-grimaces-with-eyebrows.png) |
 | bufo-grin.png | ![bufo-grin.png](all-the-bufo/bufo-grin.png) |
+| bufo-gtfm-gets-the-money.png | ![bufo-gtfm-gets-the-money.png](all-the-bufo/bufo-gtfm-gets-the-money.png) |
 | bufo-guitar.gif | ![bufo-guitar.gif](all-the-bufo/bufo-guitar.gif) |
 | bufo-ha-ha.png | ![bufo-ha-ha.png](all-the-bufo/bufo-ha-ha.png) |
 | bufo-hacker.png | ![bufo-hacker.png](all-the-bufo/bufo-hacker.png) |
