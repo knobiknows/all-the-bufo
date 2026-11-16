@@ -1124,6 +1124,7 @@
 | bufo-pretends-to-have-authority.png | ![bufo-pretends-to-have-authority.png](all-the-bufo/bufo-pretends-to-have-authority.png) |
 | bufo-pretty-dang-sad.png | ![bufo-pretty-dang-sad.png](all-the-bufo/bufo-pretty-dang-sad.png) |
 | bufo-pride.gif | ![bufo-pride.gif](all-the-bufo/bufo-pride.gif) |
+| bufo-protected-by-god.png | ![bufo-protected-by-god.png](all-the-bufo/bufo-protected-by-god.png) |
 | bufo-psychic.png | ![bufo-psychic.png](all-the-bufo/bufo-psychic.png) |
 | bufo-pumpkin-head.png | ![bufo-pumpkin-head.png](all-the-bufo/bufo-pumpkin-head.png) |
 | bufo-pumpkin.png | ![bufo-pumpkin.png](all-the-bufo/bufo-pumpkin.png) |
@@ -1606,7 +1607,6 @@
 | feelsgoodbufo.png | ![feelsgoodbufo.png](all-the-bufo/feelsgoodbufo.png) |
 | fix-it-bufo.png | ![fix-it-bufo.png](all-the-bufo/fix-it-bufo.png) |
 | friendly-neighborhood-bufo.png | ![friendly-neighborhood-bufo.png](all-the-bufo/friendly-neighborhood-bufo.png) |
-| frog-protected-by-god.png | ![frog-protected-by-god.png](all-the-bufo/frog-protected-by-god.png) |
 | future-bufos.png | ![future-bufos.png](all-the-bufo/future-bufos.png) |
 | get-in-lets-bufo.png | ![get-in-lets-bufo.png](all-the-bufo/get-in-lets-bufo.png) |
 | get-out-of-bufos-swamp.png | ![get-out-of-bufos-swamp.png](all-the-bufo/get-out-of-bufos-swamp.png) |
