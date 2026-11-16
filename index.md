@@ -1124,6 +1124,7 @@
 | bufo-pretends-to-have-authority.png | ![bufo-pretends-to-have-authority.png](all-the-bufo/bufo-pretends-to-have-authority.png) |
 | bufo-pretty-dang-sad.png | ![bufo-pretty-dang-sad.png](all-the-bufo/bufo-pretty-dang-sad.png) |
 | bufo-pride.gif | ![bufo-pride.gif](all-the-bufo/bufo-pride.gif) |
+| bufo-protected-by-god.png | ![bufo-protected-by-god.png](all-the-bufo/bufo-protected-by-god.png) |
 | bufo-psychic.png | ![bufo-psychic.png](all-the-bufo/bufo-psychic.png) |
 | bufo-pumpkin-head.png | ![bufo-pumpkin-head.png](all-the-bufo/bufo-pumpkin-head.png) |
 | bufo-pumpkin.png | ![bufo-pumpkin.png](all-the-bufo/bufo-pumpkin.png) |
