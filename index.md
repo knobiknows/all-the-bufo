@@ -1606,6 +1606,7 @@
 | feelsgoodbufo.png | ![feelsgoodbufo.png](all-the-bufo/feelsgoodbufo.png) |
 | fix-it-bufo.png | ![fix-it-bufo.png](all-the-bufo/fix-it-bufo.png) |
 | friendly-neighborhood-bufo.png | ![friendly-neighborhood-bufo.png](all-the-bufo/friendly-neighborhood-bufo.png) |
+| frog-protected-by-god.png | ![frog-protected-by-god.png](all-the-bufo/frog-protected-by-god.png) |
 | future-bufos.png | ![future-bufos.png](all-the-bufo/future-bufos.png) |
 | get-in-lets-bufo.png | ![get-in-lets-bufo.png](all-the-bufo/get-in-lets-bufo.png) |
 | get-out-of-bufos-swamp.png | ![get-out-of-bufos-swamp.png](all-the-bufo/get-out-of-bufos-swamp.png) |
